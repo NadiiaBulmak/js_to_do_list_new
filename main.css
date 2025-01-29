@@ -133,3 +133,112 @@
 .todo-app__item-remove:hover {
   background: #edeef0;
 }
+
+/* Tablet: 768px и меньше */
+@media (max-width: 768px) {
+  .container {
+    padding: 5px;
+  }
+
+  .todo-app {
+    margin: 50px auto 10px;
+    padding: 30px 20px 50px;
+    max-width: 95%;
+  }
+
+  .todo-app__header {
+    margin-bottom: 15px;
+  }
+
+  .todo-app__icon {
+    width: 40px;
+    height: 40px;
+  }
+
+  .todo-app__input-container {
+    padding-left: 15px;
+    margin-bottom: 20px;
+  }
+
+  .todo-app__button {
+    padding: 14px 40px;
+    font-size: 15px;
+  }
+
+  .todo-app__item {
+    font-size: 16px;
+    padding: 10px 8px 10px 45px;
+  }
+}
+
+/* Mobile: 480px и меньше */
+@media (max-width: 480px) {
+  .todo-app {
+    padding: 25px 15px 40px;
+    border-radius: 8px;
+  }
+
+  .todo-app__icon {
+    width: 36px;
+    height: 36px;
+  }
+
+  .todo-app__input-container {
+    flex-direction: column;
+    background: transparent;
+    gap: 15px;
+    padding-left: 0;
+  }
+
+  .todo-app__input {
+    width: 100%;
+    padding: 12px;
+    background: #edeef0;
+    border-radius: 25px;
+  }
+
+  .todo-app__button {
+    width: 100%;
+    padding: 14px;
+    border-radius: 25px;
+  }
+
+  .todo-app__item {
+    font-size: 15px;
+    padding: 8px 8px 8px 40px;
+    margin-bottom: 8px;
+  }
+
+  .todo-app__item::before {
+    width: 24px;
+    height: 24px;
+    top: 4px;
+  }
+
+  .todo-app__item-remove {
+    width: 26px;
+    height: 26px;
+    font-size: 20px;
+  }
+}
+
+/* Small Mobile: 360px и меньше */
+@media (max-width: 360px) {
+  .todo-app {
+    padding: 20px 10px 30px;
+  }
+
+  .todo-app__title {
+    font-size: 1.5rem;
+  }
+
+  .todo-app__item {
+    font-size: 14px;
+    padding: 6px 8px 6px 36px;
+  }
+
+  .todo-app__item::before {
+    width: 22px;
+    height: 22px;
+  }
+}
