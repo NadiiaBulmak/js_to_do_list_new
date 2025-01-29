@@ -54,6 +54,7 @@ function addTask() {
 // Сохранение данных в localStorage
 function saveData() {
   try {
+    // Мы сохраняем только внутреннее содержимое списка
     localStorage.setItem('data', listContainer.innerHTML);
   } catch (e) {
     window.alert('Ошибка сохранения в localStorage:', e);
