@@ -1,4 +1,5 @@
 'use strict';
+console.log('Script loaded!'); // Должно появиться в консоли
 
 // Получаем элементы из DOM
 const inputBox = document.getElementById('input-box');
