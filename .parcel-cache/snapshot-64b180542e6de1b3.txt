@@ -1,4 +1,4 @@
-5538
+5634
 68C:\projects\Portfolio\js_to_do_list_new\node_modules\.cache\gh-pages133826405402509401 1
 93C:\projects\Portfolio\js_to_do_list_new\node_modules\@parcel\core\test\RequestTracker.test.js133826402383536386 0
 90C:\projects\Portfolio\js_to_do_list_new\node_modules\htmlparser2\lib\WritableStream.js.map133826402379350818 0
@@ -22,6 +22,7 @@
 50C:\projects\Portfolio\js_to_do_list_new\src\images133826400709280623 1
 78C:\projects\Portfolio\js_to_do_list_new\node_modules\cosmiconfig\dist\merge.js133826402377151138 0
 59C:\projects\Portfolio\js_to_do_list_new\node_modules\@lezer133826402361287245 1
+175C:\projects\Portfolio\js_to_do_list_new\node_modules\.cache\gh-pages\https!github.com!NadiiaBulmak!js_to_do_list_new.git\.git\objects\d0\c3b172cfe1702894ba9e3dd6257ecc6a92381c133826414758941371 0
 63C:\projects\Portfolio\js_to_do_list_new\node_modules\domhandler133826402377316193 1
 94C:\projects\Portfolio\js_to_do_list_new\node_modules\caniuse-lite\data\features\eventsource.js133826402386097857 0
 85C:\projects\Portfolio\js_to_do_list_new\node_modules\@swc\helpers\scripts\ast_grep.js133826402384230752 0
@@ -70,11 +71,11 @@
 65C:\projects\Portfolio\js_to_do_list_new\node_modules\async\seq.js133826402382866179 0
 50C:\projects\Portfolio\js_to_do_list_new\src\styles133826400709361229 1
 115C:\projects\Portfolio\js_to_do_list_new\node_modules\@parcel\transformer-svg\node_modules\semver\functions\clean.js133826402374174367 0
-44C:\projects\Portfolio\js_to_do_list_new\dist133826410563721855 1
+44C:\projects\Portfolio\js_to_do_list_new\dist133826414747844253 1
 69C:\projects\Portfolio\js_to_do_list_new\node_modules\msgpackr\pack.js133826402378337300 0
 87C:\projects\Portfolio\js_to_do_list_new\node_modules\caniuse-lite\data\features\opus.js133826402389795773 0
 77C:\projects\Portfolio\js_to_do_list_new\node_modules\postcss-value-parser\lib133826402376516540 1
-189C:\projects\Portfolio\js_to_do_list_new\node_modules\.cache\gh-pages\https!github.com!NadiiaBulmak!js_to_do_list_new.git\.git\objects\pack\pack-eb1866eae9a95bae8c8e1ad5b2c5331b9121e1c0.pack133826405419176284 0
+189C:\projects\Portfolio\js_to_do_list_new\node_modules\.cache\gh-pages\https!github.com!NadiiaBulmak!js_to_do_list_new.git\.git\objects\pack\pack-eb1866eae9a95bae8c8e1ad5b2c5331b9121e1c0.pack133826414762296408 0
 77C:\projects\Portfolio\js_to_do_list_new\node_modules\to-regex-range\README.md133826402374707762 0
 78C:\projects\Portfolio\js_to_do_list_new\node_modules\chokidar\esm\package.json133826402609605350 0
 77C:\projects\Portfolio\js_to_do_list_new\node_modules\locate-path\package.json133826402372745410 0
@@ -134,7 +135,7 @@
 92C:\projects\Portfolio\js_to_do_list_new\node_modules\@parcel\core\node_modules\semver\ranges133826402380853908 1
 93C:\projects\Portfolio\js_to_do_list_new\node_modules\@swc\helpers\_\_interop_require_wildcard133826402385438559 1
 78C:\projects\Portfolio\js_to_do_list_new\node_modules\@parcel\markdown-ansi\src133826402374062535 1
-59C:\projects\Portfolio\js_to_do_list_new\src\scripts\main.js133826410507078432 0
+59C:\projects\Portfolio\js_to_do_list_new\src\scripts\main.js133826414548271389 0
 59C:\projects\Portfolio\js_to_do_list_new\node_modules\braces133826402376753987 1
 103C:\projects\Portfolio\js_to_do_list_new\node_modules\caniuse-lite\data\features\background-clip-text.js133826402381238321 0
 96C:\projects\Portfolio\js_to_do_list_new\node_modules\caniuse-lite\data\features\web-animation.js133826402392168951 0
@@ -181,6 +182,7 @@
 94C:\projects\Portfolio\js_to_do_list_new\node_modules\caniuse-lite\data\features\wbr-element.js133826402392147518 0
 83C:\projects\Portfolio\js_to_do_list_new\node_modules\fs-extra\lib\move\move-sync.js133826402378789851 0
 98C:\projects\Portfolio\js_to_do_list_new\node_modules\@swc\helpers\src\_tagged_template_literal.mjs133826402387398573 0
+136C:\projects\Portfolio\js_to_do_list_new\node_modules\.cache\gh-pages\https!github.com!NadiiaBulmak!js_to_do_list_new.git\.git\objects\f9133826414759723139 1
 97C:\projects\Portfolio\js_to_do_list_new\node_modules\@parcel\core\test\fixtures\duplicate-targets133826402384458280 1
 59C:\projects\Portfolio\js_to_do_list_new\node_modules\.cache133826405395945877 1
 85C:\projects\Portfolio\js_to_do_list_new\node_modules\@swc\helpers\_\_array_with_holes133826402384372810 1
@@ -209,6 +211,7 @@
 61C:\projects\Portfolio\js_to_do_list_new\node_modules\@nodelib133826402361267218 1
 90C:\projects\Portfolio\js_to_do_list_new\node_modules\caniuse-lite\data\features\flexbox.js133826402386385577 0
 117C:\projects\Portfolio\js_to_do_list_new\node_modules\@parcel\transformer-js\node_modules\semver\functions\rcompare.js133826402380044752 0
+150C:\projects\Portfolio\js_to_do_list_new\node_modules\.cache\gh-pages\https!github.com!NadiiaBulmak!js_to_do_list_new.git\.git\refs\remotes\origin\main133826411038681140 0
 85C:\projects\Portfolio\js_to_do_list_new\node_modules\react-error-overlay\lib\index.js133826402375938888 0
 83C:\projects\Portfolio\js_to_do_list_new\node_modules\@lezer\common\dist\index.d.cts133826402375038062 0
 72C:\projects\Portfolio\js_to_do_list_new\node_modules\detect-libc\LICENSE133826402374646231 0
@@ -275,6 +278,7 @@
 92C:\projects\Portfolio\js_to_do_list_new\node_modules\@swc\helpers\_\_interop_require_default133826402385418402 1
 111C:\projects\Portfolio\js_to_do_list_new\node_modules\posthtml\node_modules\dom-serializer\node_modules\entities133826402377747655 1
 67C:\projects\Portfolio\js_to_do_list_new\node_modules\dom-serializer133826402377215827 1
+175C:\projects\Portfolio\js_to_do_list_new\node_modules\.cache\gh-pages\https!github.com!NadiiaBulmak!js_to_do_list_new.git\.git\objects\75\19dd50fc5c284630a5c4f47463de9bf36b18a5133826414759477088 0
 75C:\projects\Portfolio\js_to_do_list_new\node_modules\supports-color\license133826402372792528 0
 87C:\projects\Portfolio\js_to_do_list_new\node_modules\entities\lib\decode_codepoint.d.ts133826402381303535 0
 75C:\projects\Portfolio\js_to_do_list_new\node_modules\fast-glob\package.json133826402379548591 0
@@ -440,6 +444,7 @@
 84C:\projects\Portfolio\js_to_do_list_new\node_modules\caniuse-lite\data\regions\NP.js133826402389588171 0
 105C:\projects\Portfolio\js_to_do_list_new\node_modules\react-refresh\cjs\react-refresh-babel.development.js133826402374201293 0
 65C:\projects\Portfolio\js_to_do_list_new\node_modules\chokidar\esm133826402609729591 1
+175C:\projects\Portfolio\js_to_do_list_new\node_modules\.cache\gh-pages\https!github.com!NadiiaBulmak!js_to_do_list_new.git\.git\objects\5b\68383613de674c6bf12df4dd1f678c75350326133826411036084832 0
 72C:\projects\Portfolio\js_to_do_list_new\node_modules\graceful-fs\LICENSE133826402372936066 0
 90C:\projects\Portfolio\js_to_do_list_new\node_modules\caniuse-lite\data\features\wasm-gc.js133826402391975750 0
 74C:\projects\Portfolio\js_to_do_list_new\node_modules\async\groupByLimit.js133826402381899963 0
@@ -501,7 +506,7 @@
 88C:\projects\Portfolio\js_to_do_list_new\node_modules\caniuse-lite\dist\unpacker\index.js133826402387537437 0
 66C:\projects\Portfolio\js_to_do_list_new\node_modules\parent-module133826402374329006 1
 87C:\projects\Portfolio\js_to_do_list_new\node_modules\@parcel\workers\src\core-worker.js133826402377620815 0
-143C:\projects\Portfolio\js_to_do_list_new\node_modules\.cache\gh-pages\https!github.com!NadiiaBulmak!js_to_do_list_new.git\unchecked.b173f22c.png133826405417888024 0
+143C:\projects\Portfolio\js_to_do_list_new\node_modules\.cache\gh-pages\https!github.com!NadiiaBulmak!js_to_do_list_new.git\unchecked.b173f22c.png133826414762084426 0
 81C:\projects\Portfolio\js_to_do_list_new\node_modules\@swc\helpers\cjs\_update.cjs133826402382417715 0
 85C:\projects\Portfolio\js_to_do_list_new\node_modules\domutils\lib\esm\querying.js.map133826402380308560 0
 76C:\projects\Portfolio\js_to_do_list_new\node_modules\@swc\types\package.json133826402374467418 0
@@ -761,6 +766,7 @@
 84C:\projects\Portfolio\js_to_do_list_new\node_modules\caniuse-lite\data\regions\ME.js133826402388989729 0
 106C:\projects\Portfolio\js_to_do_list_new\node_modules\posthtml\node_modules\posthtml-parser\dist\index.d.ts133826402375892418 0
 90C:\projects\Portfolio\js_to_do_list_new\node_modules\@swc\helpers\cjs\_sliced_to_array.cjs133826402381990624 0
+136C:\projects\Portfolio\js_to_do_list_new\node_modules\.cache\gh-pages\https!github.com!NadiiaBulmak!js_to_do_list_new.git\.git\objects\d0133826414762366944 1
 75C:\projects\Portfolio\js_to_do_list_new\node_modules\ansi-styles\index.d.ts133826402375105670 0
 75C:\projects\Portfolio\js_to_do_list_new\node_modules\@parcel\codeframe\test133826402379305601 1
 98C:\projects\Portfolio\js_to_do_list_new\node_modules\caniuse-lite\data\features\css-text-indent.js133826402385015995 0
@@ -867,7 +873,7 @@
 87C:\projects\Portfolio\js_to_do_list_new\node_modules\cosmiconfig\dist\Explorer.d.ts.map133826402378696725 0
 88C:\projects\Portfolio\js_to_do_list_new\node_modules\fast-glob\out\providers\provider.js133826402378639400 0
 87C:\projects\Portfolio\js_to_do_list_new\node_modules\type-fest\source\partial-deep.d.ts133826402379185847 0
-143C:\projects\Portfolio\js_to_do_list_new\node_modules\.cache\gh-pages\https!github.com!NadiiaBulmak!js_to_do_list_new.git\unchecked.c0f455cc.png133826405417903093 0
+143C:\projects\Portfolio\js_to_do_list_new\node_modules\.cache\gh-pages\https!github.com!NadiiaBulmak!js_to_do_list_new.git\unchecked.c0f455cc.png133826414762084426 0
 71C:\projects\Portfolio\js_to_do_list_new\node_modules\dotenv\config.d.ts133826402376900555 0
 69C:\projects\Portfolio\js_to_do_list_new\node_modules\tslib\tslib.d.ts133826402377276225 0
 84C:\projects\Portfolio\js_to_do_list_new\node_modules\caniuse-lite\data\regions\TZ.js133826402391569786 0
@@ -903,7 +909,7 @@
 66C:\projects\Portfolio\js_to_do_list_new\node_modules\fast-glob\out133826402381013996 1
 89C:\projects\Portfolio\js_to_do_list_new\node_modules\caniuse-lite\data\features\webgpu.js133826402392288036 0
 86C:\projects\Portfolio\js_to_do_list_new\node_modules\type-fest\source\stringified.d.ts133826402380021063 0
-175C:\projects\Portfolio\js_to_do_list_new\node_modules\.cache\gh-pages\https!github.com!NadiiaBulmak!js_to_do_list_new.git\.git\objects\18\bd9b0839028a0841d1473a6e7d451cd6cfd1fc133826405418372540 0
+175C:\projects\Portfolio\js_to_do_list_new\node_modules\.cache\gh-pages\https!github.com!NadiiaBulmak!js_to_do_list_new.git\.git\objects\18\bd9b0839028a0841d1473a6e7d451cd6cfd1fc133826414762462296 0
 72C:\projects\Portfolio\js_to_do_list_new\node_modules\parcel\package.json133826402376081626 0
 110C:\projects\Portfolio\js_to_do_list_new\node_modules\htmlnano\docs\versioned_docs\version-1.1.1\040-presets.md133826402381697708 0
 98C:\projects\Portfolio\js_to_do_list_new\node_modules\@swc\helpers\_\_write_only_error\package.json133826402386297432 0
@@ -980,6 +986,7 @@
 124C:\projects\Portfolio\js_to_do_list_new\node_modules\msgpackr-extract\node_modules\node-gyp-build-optional-packages\index.js133826402374548589 0
 76C:\projects\Portfolio\js_to_do_list_new\node_modules\to-regex-range\index.js133826402373444535 0
 85C:\projects\Portfolio\js_to_do_list_new\node_modules\term-size\vendor\macos\.DS_Store133826402373708793 0
+175C:\projects\Portfolio\js_to_do_list_new\node_modules\.cache\gh-pages\https!github.com!NadiiaBulmak!js_to_do_list_new.git\.git\objects\90\8ee197a4418c42695d3b045b2beee830947c1f133826411034615722 0
 127C:\projects\Portfolio\js_to_do_list_new\node_modules\@parcel\core\test\fixtures\config-extends-not-found\.parcelrc-node-modules133826402378089662 0
 77C:\projects\Portfolio\js_to_do_list_new\node_modules\node-addon-api\nothing.c133826402372540606 0
 78C:\projects\Portfolio\js_to_do_list_new\node_modules\queue-microtask\README.md133826402374413930 0
@@ -993,7 +1000,7 @@
 76C:\projects\Portfolio\js_to_do_list_new\node_modules\chokidar\esm\index.d.ts133826402609749372 0
 74C:\projects\Portfolio\js_to_do_list_new\node_modules\htmlparser2\README.md133826402379436457 0
 103C:\projects\Portfolio\js_to_do_list_new\node_modules\@swc\helpers\_\_await_async_generator\package.json133826402384528299 0
-150C:\projects\Portfolio\js_to_do_list_new\node_modules\.cache\gh-pages\https!github.com!NadiiaBulmak!js_to_do_list_new.git\.git\logs\refs\heads\gh-pages133826405419267597 0
+150C:\projects\Portfolio\js_to_do_list_new\node_modules\.cache\gh-pages\https!github.com!NadiiaBulmak!js_to_do_list_new.git\.git\logs\refs\heads\gh-pages133826414763277960 0
 75C:\projects\Portfolio\js_to_do_list_new\node_modules\locate-path\index.d.ts133826402373336866 0
 104C:\projects\Portfolio\js_to_do_list_new\node_modules\@parcel\core\node_modules\semver\functions\parse.js133826402379679201 0
 71C:\projects\Portfolio\js_to_do_list_new\node_modules\timsort\.npmignore133826402373361025 0
@@ -1004,7 +1011,7 @@
 92C:\projects\Portfolio\js_to_do_list_new\node_modules\@parcel\transformer-babel\lib\babel7.js133826402373569392 0
 87C:\projects\Portfolio\js_to_do_list_new\node_modules\sass\types\logger\source_span.d.ts133826402611821143 0
 100C:\projects\Portfolio\js_to_do_list_new\node_modules\caniuse-lite\data\features\template-literals.js133826402391237627 0
-145C:\projects\Portfolio\js_to_do_list_new\node_modules\.cache\gh-pages\https!github.com!NadiiaBulmak!js_to_do_list_new.git\.git\refs\remotes\origin133826405435041261 1
+145C:\projects\Portfolio\js_to_do_list_new\node_modules\.cache\gh-pages\https!github.com!NadiiaBulmak!js_to_do_list_new.git\.git\refs\remotes\origin133826414778051602 1
 66C:\projects\Portfolio\js_to_do_list_new\node_modules\timsort\build133826402375892418 1
 91C:\projects\Portfolio\js_to_do_list_new\node_modules\domutils\lib\esm\manipulation.d.ts.map133826402379861250 0
 97C:\projects\Portfolio\js_to_do_list_new\node_modules\caniuse-lite\data\features\css-line-clamp.js133826402384278123 0
@@ -1290,7 +1297,7 @@
 68C:\projects\Portfolio\js_to_do_list_new\node_modules\async\select.js133826402382815674 0
 115C:\projects\Portfolio\js_to_do_list_new\node_modules\posthtml\node_modules\dom-serializer\lib\esm\foreignNames.d.ts133826402377506574 0
 64C:\projects\Portfolio\js_to_do_list_new\node_modules\.bin\parcel133826402396697174 0
-135C:\projects\Portfolio\js_to_do_list_new\node_modules\.cache\gh-pages\https!github.com!NadiiaBulmak!js_to_do_list_new.git\.git\logs\HEAD133826405419257609 0
+135C:\projects\Portfolio\js_to_do_list_new\node_modules\.cache\gh-pages\https!github.com!NadiiaBulmak!js_to_do_list_new.git\.git\logs\HEAD133826414763277960 0
 94C:\projects\Portfolio\js_to_do_list_new\node_modules\@nodelib\fs.walk\out\providers\async.d.ts133826402377955375 0
 77C:\projects\Portfolio\js_to_do_list_new\node_modules\safe-buffer\package.json133826402373937177 0
 118C:\projects\Portfolio\js_to_do_list_new\node_modules\@parcel\transformer-posthtml\node_modules\semver\functions\gte.js133826402377706802 0
@@ -1413,6 +1420,7 @@
 69C:\projects\Portfolio\js_to_do_list_new\node_modules\argparse\LICENSE133826402372766783 0
 80C:\projects\Portfolio\js_to_do_list_new\node_modules\domelementtype\package.json133826402375391614 0
 82C:\projects\Portfolio\js_to_do_list_new\node_modules\posthtml-parser\dist\index.js133826402373528820 0
+136C:\projects\Portfolio\js_to_do_list_new\node_modules\.cache\gh-pages\https!github.com!NadiiaBulmak!js_to_do_list_new.git\.git\objects\0a133826411033877260 1
 77C:\projects\Portfolio\js_to_do_list_new\node_modules\domutils\lib\legacy.d.ts133826402381386655 0
 93C:\projects\Portfolio\js_to_do_list_new\node_modules\@parcel\types-internal\lib\FilePath.d.ts133826402378382939 0
 79C:\projects\Portfolio\js_to_do_list_new\node_modules\msgpackr\dist\index.js.map133826402380139821 0
@@ -1429,7 +1437,7 @@
 120C:\projects\Portfolio\js_to_do_list_new\node_modules\@parcel\transformer-posthtml\node_modules\semver\functions\valid.js133826402380768103 0
 102C:\projects\Portfolio\js_to_do_list_new\node_modules\ordered-binary\.nyc_output\processinfo\index.json133826402376778011 0
 86C:\projects\Portfolio\js_to_do_list_new\node_modules\domelementtype\lib\index.d.ts.map133826402376039711 0
-150C:\projects\Portfolio\js_to_do_list_new\node_modules\.cache\gh-pages\https!github.com!NadiiaBulmak!js_to_do_list_new.git\js_to_do_list_new.59712999.js133826405417888024 0
+150C:\projects\Portfolio\js_to_do_list_new\node_modules\.cache\gh-pages\https!github.com!NadiiaBulmak!js_to_do_list_new.git\js_to_do_list_new.59712999.js133826414762074451 0
 100C:\projects\Portfolio\js_to_do_list_new\node_modules\@parcel\package-manager\node_modules\semver\bin133826402380328546 1
 100C:\projects\Portfolio\js_to_do_list_new\node_modules\@parcel\transformer-image\lib\validateConfig.js133826402375696333 0
 81C:\projects\Portfolio\js_to_do_list_new\node_modules\posthtml\types\posthtml.d.ts133826402375577917 0
@@ -1607,6 +1615,7 @@
 77C:\projects\Portfolio\js_to_do_list_new\node_modules\async\internal\reject.js133826402382659963 0
 104C:\projects\Portfolio\js_to_do_list_new\node_modules\posthtml\node_modules\domhandler\lib\index.d.ts.map133826402375290718 0
 132C:\projects\Portfolio\js_to_do_list_new\node_modules\posthtml\node_modules\dom-serializer\node_modules\entities\lib\maps\decode.json133826402375708624 0
+136C:\projects\Portfolio\js_to_do_list_new\node_modules\.cache\gh-pages\https!github.com!NadiiaBulmak!js_to_do_list_new.git\.git\objects\20133826411035995942 1
 98C:\projects\Portfolio\js_to_do_list_new\node_modules\entities\lib\generated\decode-data-xml.js.map133826402379694102 0
 99C:\projects\Portfolio\js_to_do_list_new\node_modules\posthtml\node_modules\domhandler\lib\node.d.ts133826402376730378 0
 103C:\projects\Portfolio\js_to_do_list_new\node_modules\posthtml\node_modules\domhandler\lib\node.d.ts.map133826402375728461 0
@@ -1645,7 +1654,7 @@
 99C:\projects\Portfolio\js_to_do_list_new\node_modules\@parcel\transformer-js\src\esmodule-helpers.js133826402374229190 0
 87C:\projects\Portfolio\js_to_do_list_new\node_modules\@parcel\core\src\CommittedAsset.js133826402381228204 0
 135C:\projects\Portfolio\js_to_do_list_new\node_modules\posthtml\node_modules\dom-serializer\node_modules\entities\lib\decode_codepoint.js133826402373637411 0
-143C:\projects\Portfolio\js_to_do_list_new\node_modules\.cache\gh-pages\https!github.com!NadiiaBulmak!js_to_do_list_new.git\index.4b3c3f1a.css.map133826405417888024 0
+143C:\projects\Portfolio\js_to_do_list_new\node_modules\.cache\gh-pages\https!github.com!NadiiaBulmak!js_to_do_list_new.git\index.4b3c3f1a.css.map133826414762074451 0
 76C:\projects\Portfolio\js_to_do_list_new\node_modules\@parcel\packager-js\src133826402378639400 1
 80C:\projects\Portfolio\js_to_do_list_new\node_modules\immutable\dist\immutable.js133826402609654747 0
 96C:\projects\Portfolio\js_to_do_list_new\node_modules\caniuse-lite\data\features\text-emphasis.js133826402391307780 0
@@ -1926,6 +1935,7 @@
 79C:\projects\Portfolio\js_to_do_list_new\node_modules\node-addon-api\common.gypi133826402374354026 0
 74C:\projects\Portfolio\js_to_do_list_new\node_modules\@parcel\namer-default133826402374687765 1
 89C:\projects\Portfolio\js_to_do_list_new\node_modules\caniuse-lite\data\features\tls1-2.js133826402391418215 0
+175C:\projects\Portfolio\js_to_do_list_new\node_modules\.cache\gh-pages\https!github.com!NadiiaBulmak!js_to_do_list_new.git\.git\objects\54\921070d1ee33d6f8845db4bf7ac0a1ec551505133826411032270611 0
 98C:\projects\Portfolio\js_to_do_list_new\node_modules\lmdb\node_modules\node-addon-api\package.json133826402378408038 0
 76C:\projects\Portfolio\js_to_do_list_new\node_modules\node-addon-api\index.js133826402378249314 0
 71C:\projects\Portfolio\js_to_do_list_new\node_modules\commondir\index.js133826402374160710 0
@@ -1962,7 +1972,7 @@
 122C:\projects\Portfolio\js_to_do_list_new\node_modules\msgpackr-extract\node_modules\node-gyp-build-optional-packages\bin.js133826402373497359 0
 129C:\projects\Portfolio\js_to_do_list_new\node_modules\msgpackr-extract\node_modules\node-gyp-build-optional-packages\build-test.js133826402374020593 0
 112C:\projects\Portfolio\js_to_do_list_new\node_modules\@swc\helpers\_\_class_check_private_static_field_descriptor133826402384730521 1
-140C:\projects\Portfolio\js_to_do_list_new\node_modules\.cache\gh-pages\https!github.com!NadiiaBulmak!js_to_do_list_new.git\.git\COMMIT_EDITMSG133826405419230057 0
+140C:\projects\Portfolio\js_to_do_list_new\node_modules\.cache\gh-pages\https!github.com!NadiiaBulmak!js_to_do_list_new.git\.git\COMMIT_EDITMSG133826414763212744 0
 89C:\projects\Portfolio\js_to_do_list_new\node_modules\@parcel\types-internal\lib\Glob.d.ts133826402378639400 0
 133C:\projects\Portfolio\js_to_do_list_new\node_modules\msgpackr-extract\node_modules\node-gyp-build-optional-packages\node-gyp-build.js133826402375071827 0
 107C:\projects\Portfolio\js_to_do_list_new\node_modules\msgpackr-extract\node_modules\detect-libc\package.json133826402375279017 0
@@ -2135,6 +2145,7 @@
 74C:\projects\Portfolio\js_to_do_list_new\node_modules\caniuse-lite\dist\lib133826402391052459 1
 83C:\projects\Portfolio\js_to_do_list_new\node_modules\lmdb\dependencies\lmdb-data-v1133826402372836140 1
 110C:\projects\Portfolio\js_to_do_list_new\node_modules\@parcel\transformer-posthtml\node_modules\.bin\semver.ps1133826402395438485 0
+175C:\projects\Portfolio\js_to_do_list_new\node_modules\.cache\gh-pages\https!github.com!NadiiaBulmak!js_to_do_list_new.git\.git\objects\3d\5691243981325e7a26ef53e20b8def851004c2133826414759011663 0
 82C:\projects\Portfolio\js_to_do_list_new\node_modules\lmdb\dependencies\lz4\LICENSE133826402377600759 0
 109C:\projects\Portfolio\js_to_do_list_new\node_modules\@parcel\transformer-svg\node_modules\semver\package.json133826402380879672 0
 83C:\projects\Portfolio\js_to_do_list_new\node_modules\@parcel\runtime-js\lib\helpers133826402379375554 1
@@ -2221,6 +2232,7 @@
 95C:\projects\Portfolio\js_to_do_list_new\node_modules\caniuse-lite\data\features\documenthead.js133826402385729074 0
 82C:\projects\Portfolio\js_to_do_list_new\node_modules\domutils\lib\esm\index.js.map133826402379416131 0
 80C:\projects\Portfolio\js_to_do_list_new\node_modules\find-cache-dir\package.json133826402374160710 0
+136C:\projects\Portfolio\js_to_do_list_new\node_modules\.cache\gh-pages\https!github.com!NadiiaBulmak!js_to_do_list_new.git\.git\objects\54133826411032290773 1
 106C:\projects\Portfolio\js_to_do_list_new\node_modules\@parcel\core\test\fixtures\config\subfolder\.parcelrc133826402377266213 0
 107C:\projects\Portfolio\js_to_do_list_new\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\midl-sparse.c133826402381572616 0
 100C:\projects\Portfolio\js_to_do_list_new\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\midl.h133826402383077106 0
@@ -2439,6 +2451,7 @@
 80C:\projects\Portfolio\js_to_do_list_new\node_modules\fs-extra\lib\empty\index.js133826402376215281 0
 112C:\projects\Portfolio\js_to_do_list_new\node_modules\@parcel\transformer-svg\node_modules\semver\ranges\valid.js133826402380802735 0
 77C:\projects\Portfolio\js_to_do_list_new\node_modules\htmlparser2\package.json133826402377286209 0
+136C:\projects\Portfolio\js_to_do_list_new\node_modules\.cache\gh-pages\https!github.com!NadiiaBulmak!js_to_do_list_new.git\.git\objects\d7133826414759625446 1
 83C:\projects\Portfolio\js_to_do_list_new\node_modules\htmlparser2\lib\index.d.ts.map133826402377589554 0
 84C:\projects\Portfolio\js_to_do_list_new\node_modules\caniuse-lite\data\regions\PS.js133826402390245452 0
 77C:\projects\Portfolio\js_to_do_list_new\node_modules\htmlparser2\lib\index.js133826402374446163 0
@@ -2466,6 +2479,7 @@
 100C:\projects\Portfolio\js_to_do_list_new\node_modules\@parcel\watcher\src\watchman\WatchmanBackend.hh133826402380094616 0
 87C:\projects\Portfolio\js_to_do_list_new\node_modules\htmlparser2\lib\esm\index.d.ts.map133826402377437354 0
 104C:\projects\Portfolio\js_to_do_list_new\node_modules\@swc\helpers\src\_class_private_field_loose_key.mjs133826402386712447 0
+175C:\projects\Portfolio\js_to_do_list_new\node_modules\.cache\gh-pages\https!github.com!NadiiaBulmak!js_to_do_list_new.git\.git\objects\f9\e6b02654066b0eb4683b36a822f8184989585e133826414759714200 0
 84C:\projects\Portfolio\js_to_do_list_new\node_modules\caniuse-lite\data\regions\GH.js133826402386870935 0
 109C:\projects\Portfolio\js_to_do_list_new\node_modules\@swc\helpers\esm\_create_for_of_iterator_helper_loose.js133826402383306988 0
 84C:\projects\Portfolio\js_to_do_list_new\node_modules\htmlparser2\lib\esm\Parser.d.ts133826402379679201 0
@@ -2478,6 +2492,7 @@
 110C:\projects\Portfolio\js_to_do_list_new\node_modules\@swc\helpers\src\_create_for_of_iterator_helper_loose.mjs133826402386860948 0
 86C:\projects\Portfolio\js_to_do_list_new\node_modules\htmlparser2\lib\esm\Parser.js.map133826402378345622 0
 92C:\projects\Portfolio\js_to_do_list_new\node_modules\htmlparser2\lib\esm\WritableStream.d.ts133826402380011098 0
+136C:\projects\Portfolio\js_to_do_list_new\node_modules\.cache\gh-pages\https!github.com!NadiiaBulmak!js_to_do_list_new.git\.git\objects\5b133826411036094747 1
 75C:\projects\Portfolio\js_to_do_list_new\node_modules\htmlnano\.eslintignore133826402372846251 0
 84C:\projects\Portfolio\js_to_do_list_new\node_modules\caniuse-lite\data\regions\NG.js133826402389548144 0
 74C:\projects\Portfolio\js_to_do_list_new\node_modules\htmlnano\CHANGELOG.md133826402381970508 0
@@ -2573,7 +2588,7 @@
 73C:\projects\Portfolio\js_to_do_list_new\node_modules\async\filterLimit.js133826402381190417 0
 85C:\projects\Portfolio\js_to_do_list_new\node_modules\@swc\helpers\_\_set\package.json133826402385759680 0
 86C:\projects\Portfolio\js_to_do_list_new\node_modules\htmlnano\docs\docs\050-modules.md133826402381755398 0
-154C:\projects\Portfolio\js_to_do_list_new\node_modules\.cache\gh-pages\https!github.com!NadiiaBulmak!js_to_do_list_new.git\.git\refs\remotes\origin\gh-pages133826405435021314 0
+154C:\projects\Portfolio\js_to_do_list_new\node_modules\.cache\gh-pages\https!github.com!NadiiaBulmak!js_to_do_list_new.git\.git\refs\remotes\origin\gh-pages133826414778021474 0
 66C:\projects\Portfolio\js_to_do_list_new\node_modules\fastq\LICENSE133826402372920806 0
 86C:\projects\Portfolio\js_to_do_list_new\node_modules\fs-extra\lib\path-exists\index.js133826402378186809 0
 85C:\projects\Portfolio\js_to_do_list_new\node_modules\@parcel\utils\src\relativeUrl.js133826402381765433 0
@@ -2656,6 +2671,7 @@
 101C:\projects\Portfolio\js_to_do_list_new\node_modules\caniuse-lite\data\features\css-module-scripts.js133826402384446916 0
 88C:\projects\Portfolio\js_to_do_list_new\node_modules\domutils\lib\esm\traversal.d.ts.map133826402380721908 0
 81C:\projects\Portfolio\js_to_do_list_new\node_modules\fs-extra\lib\remove\index.js133826402378337300 0
+175C:\projects\Portfolio\js_to_do_list_new\node_modules\.cache\gh-pages\https!github.com!NadiiaBulmak!js_to_do_list_new.git\.git\objects\1d\92e974c762444d0462a46a790357c38a0b8121133826411038390053 0
 84C:\projects\Portfolio\js_to_do_list_new\node_modules\caniuse-lite\data\regions\BG.js133826402381736098 0
 81C:\projects\Portfolio\js_to_do_list_new\node_modules\fs-extra\lib\mkdirs\index.js133826402377600759 0
 119C:\projects\Portfolio\js_to_do_list_new\node_modules\@parcel\transformer-postcss\node_modules\semver\ranges\simplify.js133826402380456941 0
@@ -2701,7 +2717,7 @@
 70C:\projects\Portfolio\js_to_do_list_new\node_modules\fastq\example.mjs133826402377039564 0
 67C:\projects\Portfolio\js_to_do_list_new\node_modules\fastq\queue.js133826402375279017 0
 96C:\projects\Portfolio\js_to_do_list_new\node_modules\caniuse-lite\data\features\online-status.js133826402389770301 0
-138C:\projects\Portfolio\js_to_do_list_new\node_modules\.cache\gh-pages\https!github.com!NadiiaBulmak!js_to_do_list_new.git\icon.d5de67d9.png133826405417888024 0
+138C:\projects\Portfolio\js_to_do_list_new\node_modules\.cache\gh-pages\https!github.com!NadiiaBulmak!js_to_do_list_new.git\icon.d5de67d9.png133826414762074451 0
 91C:\projects\Portfolio\js_to_do_list_new\node_modules\@parcel\runtime-service-worker\LICENSE133826402372876231 0
 79C:\projects\Portfolio\js_to_do_list_new\node_modules\dotenv-expand\package.json133826402374657330 0
 80C:\projects\Portfolio\js_to_do_list_new\node_modules\dotenv-expand\lib\main.d.ts133826402376182938 0
@@ -2719,6 +2735,7 @@
 75C:\projects\Portfolio\js_to_do_list_new\node_modules\fast-glob\out\index.js133826402377566992 0
 78C:\projects\Portfolio\js_to_do_list_new\node_modules\fast-glob\out\settings.js133826402378853750 0
 84C:\projects\Portfolio\js_to_do_list_new\node_modules\caniuse-lite\data\regions\GE.js133826402386761556 0
+136C:\projects\Portfolio\js_to_do_list_new\node_modules\.cache\gh-pages\https!github.com!NadiiaBulmak!js_to_do_list_new.git\.git\objects\90133826411034625885 1
 109C:\projects\Portfolio\js_to_do_list_new\node_modules\@parcel\core\test\fixtures\invalid-target-source-missing133826402384540454 1
 72C:\projects\Portfolio\js_to_do_list_new\node_modules\fast-glob\out\types133826402380396565 1
 83C:\projects\Portfolio\js_to_do_list_new\node_modules\domutils\lib\esm\querying.d.ts133826402381527949 0
@@ -2731,7 +2748,10 @@
 80C:\projects\Portfolio\js_to_do_list_new\node_modules\fast-glob\out\utils\fs.d.ts133826402380298584 0
 83C:\projects\Portfolio\js_to_do_list_new\node_modules\fast-glob\out\utils\index.d.ts133826402380510596 0
 85C:\projects\Portfolio\js_to_do_list_new\node_modules\fast-glob\out\utils\pattern.d.ts133826402380788212 0
+136C:\projects\Portfolio\js_to_do_list_new\node_modules\.cache\gh-pages\https!github.com!NadiiaBulmak!js_to_do_list_new.git\.git\objects\3d133826414759028391 1
 84C:\projects\Portfolio\js_to_do_list_new\node_modules\fast-glob\out\utils\string.d.ts133826402381200416 0
+175C:\projects\Portfolio\js_to_do_list_new\node_modules\.cache\gh-pages\https!github.com!NadiiaBulmak!js_to_do_list_new.git\.git\objects\61\a75ad7f03e437d80b3ea861ebfc3212da7df00133826414759158701 0
+138C:\projects\Portfolio\js_to_do_list_new\node_modules\.cache\gh-pages\https!github.com!NadiiaBulmak!js_to_do_list_new.git\index.f0f12eef.js133826414762074451 0
 83C:\projects\Portfolio\js_to_do_list_new\node_modules\fast-glob\out\types\index.d.ts133826402380437196 0
 95C:\projects\Portfolio\js_to_do_list_new\node_modules\@parcel\transformer-react-refresh-wrap\src133826402375696333 1
 81C:\projects\Portfolio\js_to_do_list_new\node_modules\fast-glob\out\types\index.js133826402377770933 0
@@ -2785,6 +2805,8 @@
 78C:\projects\Portfolio\js_to_do_list_new\node_modules\escalade\sync\index.d.mts133826402376566027 0
 81C:\projects\Portfolio\js_to_do_list_new\node_modules\email-addresses\package.json133826402376230374 0
 77C:\projects\Portfolio\js_to_do_list_new\node_modules\escalade\sync\index.d.ts133826402376951965 0
+175C:\projects\Portfolio\js_to_do_list_new\node_modules\.cache\gh-pages\https!github.com!NadiiaBulmak!js_to_do_list_new.git\.git\objects\41\a06a7780ebba0707579940276b5e290003cccb133826414759370652 0
+175C:\projects\Portfolio\js_to_do_list_new\node_modules\.cache\gh-pages\https!github.com!NadiiaBulmak!js_to_do_list_new.git\.git\objects\ed\fff93b34222ba67c26d8873dc399e81d51fae8133826414759584995 0
 75C:\projects\Portfolio\js_to_do_list_new\node_modules\escalade\sync\index.js133826402374174367 0
 76C:\projects\Portfolio\js_to_do_list_new\node_modules\escalade\sync\index.mjs133826402375892418 0
 74C:\projects\Portfolio\js_to_do_list_new\node_modules\async\detectSeries.js133826402379818392 0
@@ -2874,6 +2896,7 @@
 62C:\projects\Portfolio\js_to_do_list_new\node_modules\@swc\core133826402377316193 1
 94C:\projects\Portfolio\js_to_do_list_new\node_modules\electron-to-chromium\chromium-versions.js133826402373381079 0
 93C:\projects\Portfolio\js_to_do_list_new\node_modules\caniuse-lite\data\features\pdf-viewer.js133826402389949688 0
+136C:\projects\Portfolio\js_to_do_list_new\node_modules\.cache\gh-pages\https!github.com!NadiiaBulmak!js_to_do_list_new.git\.git\objects\6f133826414759704074 1
 96C:\projects\Portfolio\js_to_do_list_new\node_modules\electron-to-chromium\chromium-versions.json133826402376051186 0
 84C:\projects\Portfolio\js_to_do_list_new\node_modules\caniuse-lite\data\regions\JP.js133826402388056291 0
 90C:\projects\Portfolio\js_to_do_list_new\node_modules\electron-to-chromium\full-versions.js133826402375017745 0
@@ -2966,7 +2989,7 @@
 71C:\projects\Portfolio\js_to_do_list_new\node_modules\domhandler\LICENSE133826402372736710 0
 73C:\projects\Portfolio\js_to_do_list_new\node_modules\domhandler\readme.md133826402377356629 0
 73C:\projects\Portfolio\js_to_do_list_new\node_modules\@parcel\packager-raw133826402374677771 1
-175C:\projects\Portfolio\js_to_do_list_new\node_modules\.cache\gh-pages\https!github.com!NadiiaBulmak!js_to_do_list_new.git\.git\objects\3f\7db7efda1dc8200ec361537a522ff726da7938133826405418136933 0
+175C:\projects\Portfolio\js_to_do_list_new\node_modules\.cache\gh-pages\https!github.com!NadiiaBulmak!js_to_do_list_new.git\.git\objects\3f\7db7efda1dc8200ec361537a522ff726da7938133826414762286469 0
 93C:\projects\Portfolio\js_to_do_list_new\node_modules\chrome-trace-event\dist\trace-event.d.ts133826402375136117 0
 76C:\projects\Portfolio\js_to_do_list_new\node_modules\domhandler\lib\index.js133826402374437301 0
 77C:\projects\Portfolio\js_to_do_list_new\node_modules\domhandler\lib\node.d.ts133826402378075151 0
@@ -3041,6 +3064,7 @@
 85C:\projects\Portfolio\js_to_do_list_new\node_modules\cosmiconfig\dist\ExplorerSync.js133826402375839675 0
 89C:\projects\Portfolio\js_to_do_list_new\node_modules\cosmiconfig\dist\ExplorerSync.js.map133826402379175854 0
 103C:\projects\Portfolio\js_to_do_list_new\node_modules\caniuse-lite\data\features\input-file-directory.js133826402387702174 0
+136C:\projects\Portfolio\js_to_do_list_new\node_modules\.cache\gh-pages\https!github.com!NadiiaBulmak!js_to_do_list_new.git\.git\objects\26133826414759675568 1
 98C:\projects\Portfolio\js_to_do_list_new\node_modules\@parcel\reporter-tracer\src\TracerReporter.js133826402374249256 0
 85C:\projects\Portfolio\js_to_do_list_new\node_modules\cosmiconfig\dist\getDirectory.js133826402376101630 0
 96C:\projects\Portfolio\js_to_do_list_new\node_modules\caniuse-lite\data\features\css-image-set.js133826402384173999 0
@@ -3052,7 +3076,7 @@
 96C:\projects\Portfolio\js_to_do_list_new\node_modules\cosmiconfig\dist\getPropertyByPath.d.ts.map133826402379406130 0
 94C:\projects\Portfolio\js_to_do_list_new\node_modules\cosmiconfig\dist\getPropertyByPath.js.map133826402379483676 0
 80C:\projects\Portfolio\js_to_do_list_new\node_modules\cosmiconfig\dist\index.d.ts133826402381093731 0
-175C:\projects\Portfolio\js_to_do_list_new\node_modules\.cache\gh-pages\https!github.com!NadiiaBulmak!js_to_do_list_new.git\.git\objects\b0\d4acd2fd959c6080f9d85b700644389d803f0a133826405418292115 0
+175C:\projects\Portfolio\js_to_do_list_new\node_modules\.cache\gh-pages\https!github.com!NadiiaBulmak!js_to_do_list_new.git\.git\objects\b0\d4acd2fd959c6080f9d85b700644389d803f0a133826414762327004 0
 71C:\projects\Portfolio\js_to_do_list_new\node_modules\@parcel\diagnostic133826402375708624 1
 84C:\projects\Portfolio\js_to_do_list_new\node_modules\cosmiconfig\dist\index.d.ts.map133826402379558697 0
 101C:\projects\Portfolio\js_to_do_list_new\node_modules\@parcel\runtime-js\src\helpers\node\js-loader.js133826402379568699 0
@@ -3080,6 +3104,7 @@
 115C:\projects\Portfolio\js_to_do_list_new\node_modules\@parcel\transformer-html\node_modules\semver\functions\sort.js133826402380530599 0
 75C:\projects\Portfolio\js_to_do_list_new\node_modules\commander\package.json133826402377151138 0
 70C:\projects\Portfolio\js_to_do_list_new\node_modules\commander\typings133826402377928331 1
+175C:\projects\Portfolio\js_to_do_list_new\node_modules\.cache\gh-pages\https!github.com!NadiiaBulmak!js_to_do_list_new.git\.git\objects\0a\c180c2c4ab21de72f724bcf2c2ab7251ad6eae133826411033806082 0
 125C:\projects\Portfolio\js_to_do_list_new\node_modules\@swc\helpers\_\_class_check_private_static_field_descriptor\package.json133826402384740620 0
 81C:\projects\Portfolio\js_to_do_list_new\node_modules\commander\typings\index.d.ts133826402378040747 0
 76C:\projects\Portfolio\js_to_do_list_new\node_modules\commander\lib\option.js133826402376566027 0
@@ -3131,7 +3156,7 @@
 114C:\projects\Portfolio\js_to_do_list_new\node_modules\@parcel\transformer-js\node_modules\semver\functions\rsort.js133826402380216799 0
 84C:\projects\Portfolio\js_to_do_list_new\node_modules\caniuse-lite\data\regions\AR.js133826402379459702 0
 119C:\projects\Portfolio\js_to_do_list_new\node_modules\@parcel\transformer-postcss\node_modules\semver\functions\parse.js133826402379649052 0
-120C:\projects\Portfolio\js_to_do_list_new\node_modules\.cache\gh-pages\https!github.com!NadiiaBulmak!js_to_do_list_new.git133826405417878019 1
+120C:\projects\Portfolio\js_to_do_list_new\node_modules\.cache\gh-pages\https!github.com!NadiiaBulmak!js_to_do_list_new.git133826414762064440 1
 84C:\projects\Portfolio\js_to_do_list_new\node_modules\caniuse-lite\data\regions\AS.js133826402379936107 0
 98C:\projects\Portfolio\js_to_do_list_new\node_modules\caniuse-lite\data\features\css-reflections.js133826402384740620 0
 94C:\projects\Portfolio\js_to_do_list_new\node_modules\@parcel\utils\src\generateBuildMetrics.js133826402378629234 0
@@ -3218,6 +3243,7 @@
 84C:\projects\Portfolio\js_to_do_list_new\node_modules\caniuse-lite\data\regions\LY.js133826402388761018 0
 92C:\projects\Portfolio\js_to_do_list_new\node_modules\@swc\helpers\src\_non_iterable_rest.mjs133826402387194408 0
 83C:\projects\Portfolio\js_to_do_list_new\node_modules\@parcel\watcher\src\Watcher.hh133826402380031041 0
+175C:\projects\Portfolio\js_to_do_list_new\node_modules\.cache\gh-pages\https!github.com!NadiiaBulmak!js_to_do_list_new.git\.git\objects\23\f565805e76c56dc1136acaa0e7fb36165bcc21133826414759512119 0
 84C:\projects\Portfolio\js_to_do_list_new\node_modules\caniuse-lite\data\regions\MC.js133826402388860544 0
 84C:\projects\Portfolio\js_to_do_list_new\node_modules\caniuse-lite\data\regions\MD.js133826402388870538 0
 84C:\projects\Portfolio\js_to_do_list_new\node_modules\caniuse-lite\data\regions\MH.js133826402389103063 0
@@ -3364,10 +3390,11 @@
 95C:\projects\Portfolio\js_to_do_list_new\node_modules\@parcel\core\lib\requests\TargetRequest.js133826402383891841 0
 102C:\projects\Portfolio\js_to_do_list_new\node_modules\caniuse-lite\data\features\background-img-opts.js133826402381273524 0
 93C:\projects\Portfolio\js_to_do_list_new\node_modules\caniuse-lite\data\features\css-sticky.js133826402384919080 0
+161C:\projects\Portfolio\js_to_do_list_new\node_modules\.cache\gh-pages\https!github.com!NadiiaBulmak!js_to_do_list_new.git\js_to_do_list_new.59712999.js.map.4300.q133826414762074451 0
 106C:\projects\Portfolio\js_to_do_list_new\node_modules\caniuse-lite\data\features\background-position-x-y.js133826402381343801 0
 96C:\projects\Portfolio\js_to_do_list_new\node_modules\caniuse-lite\data\features\input-pattern.js133826402387771202 0
 113C:\projects\Portfolio\js_to_do_list_new\node_modules\caniuse-lite\data\features\keyboardevent-getmodifierstate.js133826402388214392 0
-141C:\projects\Portfolio\js_to_do_list_new\node_modules\.cache\gh-pages\https!github.com!NadiiaBulmak!js_to_do_list_new.git\.git\logs\refs\heads133826405410240881 1
+141C:\projects\Portfolio\js_to_do_list_new\node_modules\.cache\gh-pages\https!github.com!NadiiaBulmak!js_to_do_list_new.git\.git\logs\refs\heads133826405419267597 1
 112C:\projects\Portfolio\js_to_do_list_new\node_modules\caniuse-lite\data\features\background-repeat-round-space.js133826402381376643 0
 98C:\projects\Portfolio\js_to_do_list_new\node_modules\caniuse-lite\data\features\background-sync.js133826402381410110 0
 97C:\projects\Portfolio\js_to_do_list_new\node_modules\caniuse-lite\data\features\battery-status.js133826402381446393 0
@@ -3375,6 +3402,7 @@
 99C:\projects\Portfolio\js_to_do_list_new\node_modules\caniuse-lite\data\features\beforeafterprint.js133826402381685999 0
 89C:\projects\Portfolio\js_to_do_list_new\node_modules\caniuse-lite\data\features\bigint.js133826402381847659 0
 95C:\projects\Portfolio\js_to_do_list_new\node_modules\caniuse-lite\data\features\border-image.js133826402382023092 0
+175C:\projects\Portfolio\js_to_do_list_new\node_modules\.cache\gh-pages\https!github.com!NadiiaBulmak!js_to_do_list_new.git\.git\objects\0a\87b6f1a891830b03de595676179b93bcd600fd133826411033864264 0
 96C:\projects\Portfolio\js_to_do_list_new\node_modules\caniuse-lite\data\features\border-radius.js133826402382038249 0
 99C:\projects\Portfolio\js_to_do_list_new\node_modules\caniuse-lite\data\features\broadcastchannel.js133826402382093475 0
 89C:\projects\Portfolio\js_to_do_list_new\node_modules\caniuse-lite\data\features\brotli.js133826402382113531 0
@@ -3429,6 +3457,7 @@
 95C:\projects\Portfolio\js_to_do_list_new\node_modules\@parcel\transformer-react-refresh-wrap\lib133826402375152504 1
 97C:\projects\Portfolio\js_to_do_list_new\node_modules\caniuse-lite\data\features\css-exclusions.js133826402383850218 0
 91C:\projects\Portfolio\js_to_do_list_new\node_modules\@swc\helpers\_\_using_ctx\package.json133826402386209013 0
+136C:\projects\Portfolio\js_to_do_list_new\node_modules\.cache\gh-pages\https!github.com!NadiiaBulmak!js_to_do_list_new.git\.git\objects\8a133826411034675790 1
 107C:\projects\Portfolio\js_to_do_list_new\node_modules\caniuse-lite\data\features\css-file-selector-button.js133826402383870424 0
 102C:\projects\Portfolio\js_to_do_list_new\node_modules\caniuse-lite\data\features\css-filter-function.js133826402383891841 0
 82C:\projects\Portfolio\js_to_do_list_new\node_modules\@parcel\profiler\src\Trace.js133826402376346720 0
@@ -3662,7 +3691,7 @@
 107C:\projects\Portfolio\js_to_do_list_new\node_modules\caniuse-lite\data\features\mediacapture-fromelement.js133826402389019872 0
 99C:\projects\Portfolio\js_to_do_list_new\node_modules\caniuse-lite\data\features\meta-theme-color.js133826402389060520 0
 102C:\projects\Portfolio\js_to_do_list_new\node_modules\@swc\helpers\_\_class_name_tdz_error\package.json133826402384772989 0
-136C:\projects\Portfolio\js_to_do_list_new\node_modules\.cache\gh-pages\https!github.com!NadiiaBulmak!js_to_do_list_new.git\.git\FETCH_HEAD133826405415995357 0
+136C:\projects\Portfolio\js_to_do_list_new\node_modules\.cache\gh-pages\https!github.com!NadiiaBulmak!js_to_do_list_new.git\.git\FETCH_HEAD133826414759962224 0
 87C:\projects\Portfolio\js_to_do_list_new\node_modules\caniuse-lite\data\features\midi.js133826402389122982 0
 91C:\projects\Portfolio\js_to_do_list_new\node_modules\caniuse-lite\data\features\minmaxwh.js133826402389138690 0
 86C:\projects\Portfolio\js_to_do_list_new\node_modules\caniuse-lite\data\features\mp3.js133826402389219942 0
@@ -3765,10 +3794,12 @@
 90C:\projects\Portfolio\js_to_do_list_new\node_modules\caniuse-lite\data\features\svg-img.js133826402391146221 0
 120C:\projects\Portfolio\js_to_do_list_new\node_modules\@parcel\package-manager\node_modules\semver\internal\identifiers.js133826402378061460 0
 86C:\projects\Portfolio\js_to_do_list_new\node_modules\caniuse-lite\data\features\svg.js133826402391177041 0
+136C:\projects\Portfolio\js_to_do_list_new\node_modules\.cache\gh-pages\https!github.com!NadiiaBulmak!js_to_do_list_new.git\.git\objects\3c133826411038370040 1
 86C:\projects\Portfolio\js_to_do_list_new\node_modules\caniuse-lite\data\features\sxg.js133826402391187024 0
 81C:\projects\Portfolio\js_to_do_list_new\node_modules\@parcel\watcher\package.json133826402380540801 0
 91C:\projects\Portfolio\js_to_do_list_new\node_modules\caniuse-lite\data\features\testfeat.js133826402391277792 0
 98C:\projects\Portfolio\js_to_do_list_new\node_modules\caniuse-lite\data\features\text-decoration.js133826402391297758 0
+175C:\projects\Portfolio\js_to_do_list_new\node_modules\.cache\gh-pages\https!github.com!NadiiaBulmak!js_to_do_list_new.git\.git\objects\6f\5746bf5d8160b21c30301540ecf8447868149c133826414759675568 0
 106C:\projects\Portfolio\js_to_do_list_new\node_modules\@parcel\runtime-js\src\helpers\browser\wasm-loader.js133826402380510596 0
 96C:\projects\Portfolio\js_to_do_list_new\node_modules\caniuse-lite\data\features\text-overflow.js133826402391317767 0
 94C:\projects\Portfolio\js_to_do_list_new\node_modules\caniuse-lite\data\features\textcontent.js133826402391348156 0
@@ -3797,7 +3828,7 @@
 107C:\projects\Portfolio\js_to_do_list_new\node_modules\caniuse-lite\data\features\wasm-nontrapping-fptoint.js133826402392029068 0
 123C:\projects\Portfolio\js_to_do_list_new\node_modules\@parcel\package-manager\node_modules\semver\functions\compare-loose.js133826402376245604 0
 103C:\projects\Portfolio\js_to_do_list_new\node_modules\caniuse-lite\data\features\wasm-reference-types.js133826402392039181 0
-141C:\projects\Portfolio\js_to_do_list_new\node_modules\.cache\gh-pages\https!github.com!NadiiaBulmak!js_to_do_list_new.git\checked.e408967a.png133826405417888024 0
+141C:\projects\Portfolio\js_to_do_list_new\node_modules\.cache\gh-pages\https!github.com!NadiiaBulmak!js_to_do_list_new.git\checked.e408967a.png133826414762074451 0
 97C:\projects\Portfolio\js_to_do_list_new\node_modules\@parcel\utils\src\replaceBundleReferences.js133826402381817232 0
 86C:\projects\Portfolio\js_to_do_list_new\node_modules\caniuse-lite\data\features\wav.js133826402392138691 0
 99C:\projects\Portfolio\js_to_do_list_new\node_modules\caniuse-lite\data\features\web-app-manifest.js133826402392179088 0
@@ -3830,6 +3861,7 @@
 67C:\projects\Portfolio\js_to_do_list_new\node_modules\braces\LICENSE133826402372906258 0
 72C:\projects\Portfolio\js_to_do_list_new\node_modules\braces\package.json133826402376616205 0
 69C:\projects\Portfolio\js_to_do_list_new\node_modules\braces\README.md133826402376910651 0
+175C:\projects\Portfolio\js_to_do_list_new\node_modules\.cache\gh-pages\https!github.com!NadiiaBulmak!js_to_do_list_new.git\.git\objects\36\cd9e630cc0b18b200ecdcce7af5a7878595bbb133826414762377036 0
 74C:\projects\Portfolio\js_to_do_list_new\node_modules\braces\lib\compile.js133826402373619460 0
 76C:\projects\Portfolio\js_to_do_list_new\node_modules\braces\lib\constants.js133826402374129349 0
 73C:\projects\Portfolio\js_to_do_list_new\node_modules\braces\lib\expand.js133826402374697814 0
@@ -3838,6 +3870,7 @@
 89C:\projects\Portfolio\js_to_do_list_new\node_modules\@parcel\package-manager\src\utils.js133826402379295453 0
 72C:\projects\Portfolio\js_to_do_list_new\node_modules\braces\lib\utils.js133826402376215281 0
 70C:\projects\Portfolio\js_to_do_list_new\node_modules\base-x\LICENSE.md133826402374129349 0
+175C:\projects\Portfolio\js_to_do_list_new\node_modules\.cache\gh-pages\https!github.com!NadiiaBulmak!js_to_do_list_new.git\.git\objects\99\2c5c97fc1ffcaaf93670c12d34fa56c24c2a51133826414763222818 0
 72C:\projects\Portfolio\js_to_do_list_new\node_modules\base-x\package.json133826402373609405 0
 63C:\projects\Portfolio\js_to_do_list_new\node_modules\base-x\src133826402375051745 1
 119C:\projects\Portfolio\js_to_do_list_new\node_modules\@parcel\node-resolver-core\node_modules\semver\functions\coerce.js133826402375182653 0
@@ -3846,6 +3879,7 @@
 91C:\projects\Portfolio\js_to_do_list_new\node_modules\@swc\helpers\src\_class_call_check.mjs133826402386598288 0
 72C:\projects\Portfolio\js_to_do_list_new\node_modules\base-x\src\index.js133826402373030144 0
 65C:\projects\Portfolio\js_to_do_list_new\node_modules\async\all.js133826402373658039 0
+136C:\projects\Portfolio\js_to_do_list_new\node_modules\.cache\gh-pages\https!github.com!NadiiaBulmak!js_to_do_list_new.git\.git\objects\66133826414762412193 1
 70C:\projects\Portfolio\js_to_do_list_new\node_modules\async\allLimit.js133826402374174367 0
 91C:\projects\Portfolio\js_to_do_list_new\node_modules\@swc\helpers\src\_array_with_holes.mjs133826402386415582 0
 71C:\projects\Portfolio\js_to_do_list_new\node_modules\async\anySeries.js133826402375892418 0
@@ -3856,8 +3890,10 @@
 66C:\projects\Portfolio\js_to_do_list_new\node_modules\async\auto.js133826402378472941 0
 72C:\projects\Portfolio\js_to_do_list_new\node_modules\async\autoInject.js133826402378619004 0
 67C:\projects\Portfolio\js_to_do_list_new\node_modules\async\cargo.js133826402378931453 0
+175C:\projects\Portfolio\js_to_do_list_new\node_modules\.cache\gh-pages\https!github.com!NadiiaBulmak!js_to_do_list_new.git\.git\objects\d0\9c8acd1e2d362a91c020b37f176a97e7ce7e0a133826414762327004 0
 72C:\projects\Portfolio\js_to_do_list_new\node_modules\async\cargoQueue.js133826402379016974 0
 85C:\projects\Portfolio\js_to_do_list_new\node_modules\@parcel\utils\src\getExisting.js133826402378936676 0
+175C:\projects\Portfolio\js_to_do_list_new\node_modules\.cache\gh-pages\https!github.com!NadiiaBulmak!js_to_do_list_new.git\.git\objects\66\94653c1e3e0458b0620a8331c32609da27220c133826414762396949 0
 74C:\projects\Portfolio\js_to_do_list_new\node_modules\async\concatSeries.js133826402379375554 0
 110C:\projects\Portfolio\js_to_do_list_new\node_modules\@parcel\core\node_modules\semver\ranges\min-satisfying.js133826402379240727 0
 70C:\projects\Portfolio\js_to_do_list_new\node_modules\async\constant.js133826402379515086 0
@@ -3867,6 +3903,7 @@
 69C:\projects\Portfolio\js_to_do_list_new\node_modules\async\doUntil.js133826402380094616 0
 70C:\projects\Portfolio\js_to_do_list_new\node_modules\async\doWhilst.js133826402380176693 0
 66C:\projects\Portfolio\js_to_do_list_new\node_modules\async\each.js133826402380308560 0
+175C:\projects\Portfolio\js_to_do_list_new\node_modules\.cache\gh-pages\https!github.com!NadiiaBulmak!js_to_do_list_new.git\.git\objects\01\50a0412949ef24a68b04d1438c1b7b4b26feef133826414759122228 0
 188C:\projects\Portfolio\js_to_do_list_new\node_modules\.cache\gh-pages\https!github.com!NadiiaBulmak!js_to_do_list_new.git\.git\objects\pack\pack-eb1866eae9a95bae8c8e1ad5b2c5331b9121e1c0.idx133826405409803884 0
 73C:\projects\Portfolio\js_to_do_list_new\node_modules\async\eachOfLimit.js133826402380520614 0
 74C:\projects\Portfolio\js_to_do_list_new\node_modules\async\eachOfSeries.js133826402380687110 0
@@ -3890,6 +3927,7 @@
 81C:\projects\Portfolio\js_to_do_list_new\node_modules\@parcel\events\src\errors.js133826402375708624 0
 71C:\projects\Portfolio\js_to_do_list_new\node_modules\async\forEachOf.js133826402381697708 0
 94C:\projects\Portfolio\js_to_do_list_new\node_modules\@swc\helpers\_\_skip_first_generator_next133826402385774175 1
+175C:\projects\Portfolio\js_to_do_list_new\node_modules\.cache\gh-pages\https!github.com!NadiiaBulmak!js_to_do_list_new.git\.git\objects\2f\b5a7a947148a5c3c93172e72183bda76e32701133826414763182486 0
 123C:\projects\Portfolio\js_to_do_list_new\node_modules\@parcel\transformer-posthtml\node_modules\semver\classes\comparator.js133826402375649124 0
 76C:\projects\Portfolio\js_to_do_list_new\node_modules\async\forEachOfLimit.js133826402381720801 0
 75C:\projects\Portfolio\js_to_do_list_new\node_modules\async\groupBySeries.js133826402381920065 0
@@ -4029,6 +4067,7 @@
 118C:\projects\Portfolio\js_to_do_list_new\node_modules\@parcel\transformer-postcss\node_modules\semver\functions\diff.js133826402377215827 0
 112C:\projects\Portfolio\js_to_do_list_new\node_modules\@parcel\package-manager\node_modules\semver\functions\lt.js133826402378757373 0
 83C:\projects\Portfolio\js_to_do_list_new\node_modules\@swc\helpers\_\_inherits_loose133826402385348093 1
+158C:\projects\Portfolio\js_to_do_list_new\node_modules\.cache\gh-pages\https!github.com!NadiiaBulmak!js_to_do_list_new.git\.git\logs\refs\remotes\origin\develop133826414759952289 0
 96C:\projects\Portfolio\js_to_do_list_new\node_modules\@swc\helpers\_\_initializer_define_property133826402385378427 1
 79C:\projects\Portfolio\js_to_do_list_new\node_modules\@swc\helpers\_\_instanceof133826402385408409 1
 87C:\projects\Portfolio\js_to_do_list_new\node_modules\@swc\helpers\_\_is_native_function133826402385459234 1
@@ -4118,6 +4157,7 @@
 98C:\projects\Portfolio\js_to_do_list_new\node_modules\@parcel\transformer-css\lib\CSSTransformer.js133826402373708793 0
 82C:\projects\Portfolio\js_to_do_list_new\node_modules\@swc\helpers\src\_dispose.mjs133826402386936050 0
 108C:\projects\Portfolio\js_to_do_list_new\node_modules\@swc\helpers\_\_class_apply_descriptor_get\package.json133826402384640198 0
+136C:\projects\Portfolio\js_to_do_list_new\node_modules\.cache\gh-pages\https!github.com!NadiiaBulmak!js_to_do_list_new.git\.git\objects\23133826414759532158 1
 116C:\projects\Portfolio\js_to_do_list_new\node_modules\@swc\helpers\_\_class_apply_descriptor_destructure\package.json133826402384603679 0
 96C:\projects\Portfolio\js_to_do_list_new\node_modules\@swc\helpers\_\_async_iterator\package.json133826402384488289 0
 106C:\projects\Portfolio\js_to_do_list_new\node_modules\@swc\helpers\_\_async_generator_delegate\package.json133826402384438144 0
@@ -4147,6 +4187,7 @@
 99C:\projects\Portfolio\js_to_do_list_new\node_modules\@swc\helpers\src\_class_private_field_init.mjs133826402386687309 0
 93C:\projects\Portfolio\js_to_do_list_new\node_modules\@parcel\source-map\parcel_sourcemap_wasm133826402377376666 1
 105C:\projects\Portfolio\js_to_do_list_new\node_modules\@swc\helpers\src\_class_private_field_loose_base.mjs133826402386700960 0
+136C:\projects\Portfolio\js_to_do_list_new\node_modules\.cache\gh-pages\https!github.com!NadiiaBulmak!js_to_do_list_new.git\.git\objects\aa133826411040983742 1
 98C:\projects\Portfolio\js_to_do_list_new\node_modules\@swc\helpers\src\_class_private_field_set.mjs133826402386712447 0
 94C:\projects\Portfolio\js_to_do_list_new\node_modules\@parcel\transformer-svg\node_modules\.bin133826402395345133 1
 103C:\projects\Portfolio\js_to_do_list_new\node_modules\@parcel\transformer-babel\node_modules\.bin\semver133826402395438485 0
@@ -4207,7 +4248,7 @@
 103C:\projects\Portfolio\js_to_do_list_new\node_modules\@swc\helpers\esm\_class_apply_descriptor_update.js133826402382899058 0
 79C:\projects\Portfolio\js_to_do_list_new\node_modules\@parcel\cache\package.json133826402377556993 0
 97C:\projects\Portfolio\js_to_do_list_new\node_modules\@swc\helpers\esm\_class_private_field_get.js133826402383014484 0
-159C:\projects\Portfolio\js_to_do_list_new\node_modules\.cache\gh-pages\https!github.com!NadiiaBulmak!js_to_do_list_new.git\.git\logs\refs\remotes\origin\gh-pages133826405435031274 0
+159C:\projects\Portfolio\js_to_do_list_new\node_modules\.cache\gh-pages\https!github.com!NadiiaBulmak!js_to_do_list_new.git\.git\logs\refs\remotes\origin\gh-pages133826414778051602 0
 98C:\projects\Portfolio\js_to_do_list_new\node_modules\@swc\helpers\esm\_class_private_field_init.js133826402383039676 0
 103C:\projects\Portfolio\js_to_do_list_new\node_modules\@swc\helpers\esm\_class_private_field_loose_key.js133826402383067013 0
 100C:\projects\Portfolio\js_to_do_list_new\node_modules\@swc\helpers\esm\_class_private_field_update.js133826402383110643 0
@@ -4334,7 +4375,7 @@
 80C:\projects\Portfolio\js_to_do_list_new\node_modules\@parcel\reporter-tracer\src133826402374112573 1
 73C:\projects\Portfolio\js_to_do_list_new\node_modules\@swc\core\binding.js133826402375038062 0
 73C:\projects\Portfolio\js_to_do_list_new\node_modules\@swc\core\index.d.ts133826402375517493 0
-175C:\projects\Portfolio\js_to_do_list_new\node_modules\.cache\gh-pages\https!github.com!NadiiaBulmak!js_to_do_list_new.git\.git\objects\57\b0371e34b53296d044f2919a0af548432aeb55133826405418222080 0
+175C:\projects\Portfolio\js_to_do_list_new\node_modules\.cache\gh-pages\https!github.com!NadiiaBulmak!js_to_do_list_new.git\.git\objects\57\b0371e34b53296d044f2919a0af548432aeb55133826414762311585 0
 77C:\projects\Portfolio\js_to_do_list_new\node_modules\@swc\core\postinstall.js133826402376660392 0
 73C:\projects\Portfolio\js_to_do_list_new\node_modules\@swc\core\spack.d.ts133826402376850330 0
 124C:\projects\Portfolio\js_to_do_list_new\node_modules\@parcel\transformer-posthtml\node_modules\semver\functions\satisfies.js133826402380246808 0
@@ -4446,6 +4487,7 @@
 97C:\projects\Portfolio\js_to_do_list_new\node_modules\@parcel\utils\test\input\sourcemap\inline.js133826402381156945 0
 77C:\projects\Portfolio\js_to_do_list_new\node_modules\@parcel\packager-raw\lib133826402373421001 1
 103C:\projects\Portfolio\js_to_do_list_new\node_modules\@parcel\utils\test\input\sourcemap\no-sourcemap.js133826402381263519 0
+136C:\projects\Portfolio\js_to_do_list_new\node_modules\.cache\gh-pages\https!github.com!NadiiaBulmak!js_to_do_list_new.git\.git\objects\41133826414759390202 1
 119C:\projects\Portfolio\js_to_do_list_new\node_modules\@parcel\transformer-posthtml\node_modules\semver\ranges\outside.js133826402379515086 0
 109C:\projects\Portfolio\js_to_do_list_new\node_modules\@parcel\utils\test\input\sourcemap\referenced-min.js.map133826402382729964 0
 84C:\projects\Portfolio\js_to_do_list_new\node_modules\@parcel\source-map\dist\node.js133826402376900555 0
@@ -4479,6 +4521,7 @@
 102C:\projects\Portfolio\js_to_do_list_new\node_modules\@parcel\types-internal\src\DependencySpecifier.js133826402374779602 0
 94C:\projects\Portfolio\js_to_do_list_new\node_modules\@parcel\namer-default\src\DefaultNamer.js133826402374249256 0
 105C:\projects\Portfolio\js_to_do_list_new\node_modules\@parcel\types-internal\src\FileCreateInvalidation.js133826402375237736 0
+175C:\projects\Portfolio\js_to_do_list_new\node_modules\.cache\gh-pages\https!github.com!NadiiaBulmak!js_to_do_list_new.git\.git\objects\aa\9de599140aedacc8a2aae6c1c447ace20a06ae133826411040953942 0
 91C:\projects\Portfolio\js_to_do_list_new\node_modules\@parcel\types-internal\src\FilePath.js133826402375577917 0
 93C:\projects\Portfolio\js_to_do_list_new\node_modules\@parcel\types-internal\src\FileSystem.js133826402375919006 0
 91C:\projects\Portfolio\js_to_do_list_new\node_modules\@parcel\transformer-image\package.json133826402376322475 0
@@ -4511,6 +4554,7 @@
 103C:\projects\Portfolio\js_to_do_list_new\node_modules\@parcel\transformer-svg\node_modules\semver\ranges133826402380778218 1
 106C:\projects\Portfolio\js_to_do_list_new\node_modules\@parcel\transformer-svg\node_modules\semver\README.md133826402381013996 0
 110C:\projects\Portfolio\js_to_do_list_new\node_modules\@parcel\transformer-svg\node_modules\semver\ranges\gtr.js133826402377901250 0
+62C:\projects\Portfolio\js_to_do_list_new\dist\index.f0f12eef.js133826414747750431 0
 117C:\projects\Portfolio\js_to_do_list_new\node_modules\@parcel\transformer-svg\node_modules\semver\ranges\intersects.js133826402378536403 0
 121C:\projects\Portfolio\js_to_do_list_new\node_modules\@parcel\transformer-svg\node_modules\semver\ranges\max-satisfying.js133826402379130512 0
 121C:\projects\Portfolio\js_to_do_list_new\node_modules\@parcel\transformer-svg\node_modules\semver\ranges\min-satisfying.js133826402379219255 0
@@ -4544,6 +4588,7 @@
 126C:\projects\Portfolio\js_to_do_list_new\node_modules\@parcel\transformer-react-refresh-wrap\src\ReactRefreshWrapTransformer.js133826402375788585 0
 96C:\projects\Portfolio\js_to_do_list_new\node_modules\@parcel\core\test\SymbolPropagation.test.js133826402383784501 0
 103C:\projects\Portfolio\js_to_do_list_new\node_modules\@parcel\transformer-react-refresh-wrap\lib\helpers133826402373559400 1
+175C:\projects\Portfolio\js_to_do_list_new\node_modules\.cache\gh-pages\https!github.com!NadiiaBulmak!js_to_do_list_new.git\.git\objects\f4\cdd70be459742224b5f49b8b0bb1bc45493c1f133826411032212718 0
 126C:\projects\Portfolio\js_to_do_list_new\node_modules\@parcel\transformer-react-refresh-wrap\lib\ReactRefreshWrapTransformer.js133826402375257819 0
 114C:\projects\Portfolio\js_to_do_list_new\node_modules\@parcel\transformer-react-refresh-wrap\lib\helpers\helpers.js133826402373698802 0
 81C:\projects\Portfolio\js_to_do_list_new\node_modules\@parcel\packager-css\LICENSE133826402372896253 0
@@ -4563,7 +4608,7 @@
 122C:\projects\Portfolio\js_to_do_list_new\node_modules\@parcel\transformer-posthtml\node_modules\semver\ranges\intersects.js133826402378536403 0
 81C:\projects\Portfolio\js_to_do_list_new\node_modules\@parcel\resolver-default\src133826402374102539 1
 126C:\projects\Portfolio\js_to_do_list_new\node_modules\@parcel\transformer-posthtml\node_modules\semver\ranges\max-satisfying.js133826402379124999 0
-175C:\projects\Portfolio\js_to_do_list_new\node_modules\.cache\gh-pages\https!github.com!NadiiaBulmak!js_to_do_list_new.git\.git\objects\fa\8f91147f4b24a8a17c79e09bba42d90c2478ed133826405418206934 0
+175C:\projects\Portfolio\js_to_do_list_new\node_modules\.cache\gh-pages\https!github.com!NadiiaBulmak!js_to_do_list_new.git\.git\objects\fa\8f91147f4b24a8a17c79e09bba42d90c2478ed133826414762306486 0
 120C:\projects\Portfolio\js_to_do_list_new\node_modules\@parcel\transformer-posthtml\node_modules\semver\ranges\simplify.js133826402380490592 0
 126C:\projects\Portfolio\js_to_do_list_new\node_modules\@parcel\transformer-posthtml\node_modules\semver\ranges\to-comparators.js133826402380711816 0
 119C:\projects\Portfolio\js_to_do_list_new\node_modules\@parcel\transformer-posthtml\node_modules\semver\internal\debug.js133826402377049117 0
@@ -4669,6 +4714,7 @@
 81C:\projects\Portfolio\js_to_do_list_new\node_modules\@parcel\transformer-html\lib133826402375611167 1
 82C:\projects\Portfolio\js_to_do_list_new\node_modules\@nodelib\fs.scandir\out\types133826402378493100 1
 85C:\projects\Portfolio\js_to_do_list_new\node_modules\@parcel\transformer-html\LICENSE133826402372876231 0
+136C:\projects\Portfolio\js_to_do_list_new\node_modules\.cache\gh-pages\https!github.com!NadiiaBulmak!js_to_do_list_new.git\.git\objects\1d133826411038415175 1
 90C:\projects\Portfolio\js_to_do_list_new\node_modules\@parcel\transformer-html\node_modules133826402394570211 1
 90C:\projects\Portfolio\js_to_do_list_new\node_modules\@parcel\transformer-html\package.json133826402376456707 0
 100C:\projects\Portfolio\js_to_do_list_new\node_modules\@parcel\transformer-html\src\HTMLTransformer.js133826402375337418 0
@@ -4727,6 +4773,7 @@
 106C:\projects\Portfolio\js_to_do_list_new\node_modules\@parcel\transformer-html\node_modules\.bin\semver.ps1133826402395438485 0
 80C:\projects\Portfolio\js_to_do_list_new\node_modules\@parcel\transformer-css\lib133826402373436113 1
 84C:\projects\Portfolio\js_to_do_list_new\node_modules\@parcel\transformer-css\LICENSE133826402372886242 0
+175C:\projects\Portfolio\js_to_do_list_new\node_modules\.cache\gh-pages\https!github.com!NadiiaBulmak!js_to_do_list_new.git\.git\objects\f1\bc4cc7f23c9f18bdee5ca1ef18fdf73f67a492133826411034685803 0
 98C:\projects\Portfolio\js_to_do_list_new\node_modules\@parcel\transformer-css\src\CSSTransformer.js133826402374376722 0
 82C:\projects\Portfolio\js_to_do_list_new\node_modules\@parcel\transformer-babel\lib133826402378369343 1
 86C:\projects\Portfolio\js_to_do_list_new\node_modules\@parcel\transformer-babel\LICENSE133826402372876231 0
@@ -5112,6 +5159,7 @@
 92C:\projects\Portfolio\js_to_do_list_new\node_modules\@parcel\node-resolver-core\lib\index.js133826402375115802 0
 94C:\projects\Portfolio\js_to_do_list_new\node_modules\@parcel\node-resolver-core\lib\Wrapper.js133826402375682195 0
 93C:\projects\Portfolio\js_to_do_list_new\node_modules\@parcel\node-resolver-core\lib\_empty.js133826402373539315 0
+175C:\projects\Portfolio\js_to_do_list_new\node_modules\.cache\gh-pages\https!github.com!NadiiaBulmak!js_to_do_list_new.git\.git\objects\ec\aa59050ae08763339baf71fda9e7d8e0e29d84133826411040993602 0
 82C:\projects\Portfolio\js_to_do_list_new\node_modules\@parcel\namer-default\LICENSE133826402372886242 0
 87C:\projects\Portfolio\js_to_do_list_new\node_modules\@parcel\namer-default\package.json133826402374813407 0
 78C:\projects\Portfolio\js_to_do_list_new\node_modules\@parcel\namer-default\src133826402374102539 1
@@ -5141,7 +5189,7 @@
 86C:\projects\Portfolio\js_to_do_list_new\node_modules\@parcel\fs\test\OverlayFS.test.js133826402377356629 0
 80C:\projects\Portfolio\js_to_do_list_new\node_modules\@parcel\fs\lib\index.js.map133826402378332026 0
 78C:\projects\Portfolio\js_to_do_list_new\node_modules\@parcel\fs\lib\types.d.ts133826402378536403 0
-139C:\projects\Portfolio\js_to_do_list_new\node_modules\.cache\gh-pages\https!github.com!NadiiaBulmak!js_to_do_list_new.git\index.971c2ea4.css133826405417888024 0
+139C:\projects\Portfolio\js_to_do_list_new\node_modules\.cache\gh-pages\https!github.com!NadiiaBulmak!js_to_do_list_new.git\index.971c2ea4.css133826414762074451 0
 78C:\projects\Portfolio\js_to_do_list_new\node_modules\@parcel\feature-flags\lib133826402376195055 1
 102C:\projects\Portfolio\js_to_do_list_new\node_modules\@parcel\core\node_modules\semver\functions\lte.js133826402378877690 0
 87C:\projects\Portfolio\js_to_do_list_new\node_modules\@parcel\feature-flags\package.json133826402375999794 0
@@ -5165,6 +5213,7 @@
 75C:\projects\Portfolio\js_to_do_list_new\node_modules\@parcel\diagnostic\lib133826402376014541 1
 84C:\projects\Portfolio\js_to_do_list_new\node_modules\@parcel\diagnostic\package.json133826402375809418 0
 103C:\projects\Portfolio\js_to_do_list_new\node_modules\@parcel\diagnostic\test\JSONCodeHighlights.test.js133826402375061831 0
+136C:\projects\Portfolio\js_to_do_list_new\node_modules\.cache\gh-pages\https!github.com!NadiiaBulmak!js_to_do_list_new.git\.git\objects\01133826414759148840 1
 90C:\projects\Portfolio\js_to_do_list_new\node_modules\@lmdb\lmdb-win32-x64\node.abi115.node133826402377881262 0
 93C:\projects\Portfolio\js_to_do_list_new\node_modules\@parcel\diagnostic\test\markdown.test.js133826402375436678 0
 91C:\projects\Portfolio\js_to_do_list_new\node_modules\@parcel\diagnostic\lib\diagnostic.d.ts133826402376150470 0
@@ -5178,7 +5227,7 @@
 91C:\projects\Portfolio\js_to_do_list_new\node_modules\@parcel\core\test\EntryRequest.test.js133826402381960408 0
 90C:\projects\Portfolio\js_to_do_list_new\node_modules\@parcel\core\test\Environment.test.js133826402382083506 0
 96C:\projects\Portfolio\js_to_do_list_new\node_modules\@parcel\core\test\PublicEnvironment.test.js133826402383321582 0
-175C:\projects\Portfolio\js_to_do_list_new\node_modules\.cache\gh-pages\https!github.com!NadiiaBulmak!js_to_do_list_new.git\.git\objects\fd\5428a2fc1e91f3ca9756c616d069d4e9b09a86133826405418422841 0
+175C:\projects\Portfolio\js_to_do_list_new\node_modules\.cache\gh-pages\https!github.com!NadiiaBulmak!js_to_do_list_new.git\.git\objects\fd\5428a2fc1e91f3ca9756c616d069d4e9b09a86133826414762472323 0
 92C:\projects\Portfolio\js_to_do_list_new\node_modules\@parcel\core\test\TargetRequest.test.js133826402383936923 0
 84C:\projects\Portfolio\js_to_do_list_new\node_modules\@parcel\core\test\test-utils.js133826402383960094 0
 84C:\projects\Portfolio\js_to_do_list_new\node_modules\@parcel\core\test\utils.test.js133826402384140968 0
@@ -5199,13 +5248,14 @@
 102C:\projects\Portfolio\js_to_do_list_new\node_modules\@parcel\core\test\fixtures\custom-targets-distdir133826402384427702 1
 96C:\projects\Portfolio\js_to_do_list_new\node_modules\@parcel\core\test\fixtures\invalid-distpath133826402384478281 1
 102C:\projects\Portfolio\js_to_do_list_new\node_modules\@parcel\core\test\fixtures\invalid-source-missing133826402384508257 1
-138C:\projects\Portfolio\js_to_do_list_new\node_modules\.cache\gh-pages\https!github.com!NadiiaBulmak!js_to_do_list_new.git\index.f75de5e1.js133826405417888024 0
+138C:\projects\Portfolio\js_to_do_list_new\node_modules\.cache\gh-pages\https!github.com!NadiiaBulmak!js_to_do_list_new.git\index.f75de5e1.js133826414762074451 0
 103C:\projects\Portfolio\js_to_do_list_new\node_modules\@parcel\core\test\fixtures\invalid-source-not-file133826402384518266 1
 95C:\projects\Portfolio\js_to_do_list_new\node_modules\@parcel\core\test\fixtures\invalid-targets133826402384566129 1
 67C:\projects\Portfolio\js_to_do_list_new\dist\index.971c2ea4.css.map133826410563713043 0
 98C:\projects\Portfolio\js_to_do_list_new\node_modules\@parcel\core\test\fixtures\library-scopehoist133826402384603679 1
 103C:\projects\Portfolio\js_to_do_list_new\node_modules\@parcel\core\test\fixtures\local-plugin-config-pkg133826402382529603 1
 86C:\projects\Portfolio\js_to_do_list_new\node_modules\@parcel\core\test\fixtures\parcel133826402384761842 1
+155C:\projects\Portfolio\js_to_do_list_new\node_modules\.cache\gh-pages\https!github.com!NadiiaBulmak!js_to_do_list_new.git\.git\logs\refs\remotes\origin\main133826411038681140 0
 87C:\projects\Portfolio\js_to_do_list_new\node_modules\@parcel\core\test\fixtures\plugins133826402382566215 1
 107C:\projects\Portfolio\js_to_do_list_new\node_modules\@parcel\core\test\fixtures\targets-default-distdir-one133826402384740620 1
 107C:\projects\Portfolio\js_to_do_list_new\node_modules\@parcel\core\test\fixtures\targets-default-distdir-two133826402384750126 1
@@ -5215,7 +5265,7 @@
 140C:\projects\Portfolio\js_to_do_list_new\node_modules\@parcel\core\test\fixtures\plugins\node_modules\parcel-transformer-bad-engines\index.js133826402382329286 0
 95C:\projects\Portfolio\js_to_do_list_new\node_modules\@parcel\core\test\fixtures\parcel\index.js133826402382253013 0
 95C:\projects\Portfolio\js_to_do_list_new\node_modules\@parcel\core\test\fixtures\parcel\other.js133826402382689958 0
-55C:\projects\Portfolio\js_to_do_list_new\dist\index.html133826410563362303 0
+55C:\projects\Portfolio\js_to_do_list_new\dist\index.html133826414747750431 0
 99C:\projects\Portfolio\js_to_do_list_new\node_modules\@parcel\core\test\fixtures\parcel\package.json133826402384685440 0
 104C:\projects\Portfolio\js_to_do_list_new\node_modules\@parcel\core\test\fixtures\main-global\package.json133826402384655424 0
 113C:\projects\Portfolio\js_to_do_list_new\node_modules\@parcel\core\test\fixtures\main-format-mismatch\package.json133826402384645321 0
@@ -5267,10 +5317,10 @@
 91C:\projects\Portfolio\js_to_do_list_new\node_modules\@parcel\core\src\public\BundleGraph.js133826402380788212 0
 91C:\projects\Portfolio\js_to_do_list_new\node_modules\@parcel\core\src\public\BundleGroup.js133826402381156945 0
 86C:\projects\Portfolio\js_to_do_list_new\node_modules\@parcel\core\src\public\Config.js133826402381353892 0
-130C:\projects\Portfolio\js_to_do_list_new\node_modules\.cache\gh-pages\https!github.com!NadiiaBulmak!js_to_do_list_new.git\.git\HEAD133826405417441716 0
+130C:\projects\Portfolio\js_to_do_list_new\node_modules\.cache\gh-pages\https!github.com!NadiiaBulmak!js_to_do_list_new.git\.git\HEAD133826414761247849 0
 90C:\projects\Portfolio\js_to_do_list_new\node_modules\@parcel\core\src\public\Dependency.js133826402381720801 0
 98C:\projects\Portfolio\js_to_do_list_new\node_modules\@parcel\core\src\public\MutableBundleGraph.js133826402382679953 0
-141C:\projects\Portfolio\js_to_do_list_new\node_modules\.cache\gh-pages\https!github.com!NadiiaBulmak!js_to_do_list_new.git\checked.1acb5f7a.png133826405417878019 0
+141C:\projects\Portfolio\js_to_do_list_new\node_modules\.cache\gh-pages\https!github.com!NadiiaBulmak!js_to_do_list_new.git\checked.1acb5f7a.png133826414762074451 0
 86C:\projects\Portfolio\js_to_do_list_new\node_modules\@parcel\core\src\public\Target.js133826402383850218 0
 83C:\projects\Portfolio\js_to_do_list_new\node_modules\@parcel\core\node_modules\.bin133826402395320839 1
 95C:\projects\Portfolio\js_to_do_list_new\node_modules\@parcel\core\node_modules\semver\functions133826402380778218 1
@@ -5310,7 +5360,7 @@
 94C:\projects\Portfolio\js_to_do_list_new\node_modules\@parcel\core\node_modules\.bin\semver.ps1133826402395428353 0
 86C:\projects\Portfolio\js_to_do_list_new\node_modules\@parcel\core\lib\applyRuntimes.js133826402378619004 0
 83C:\projects\Portfolio\js_to_do_list_new\node_modules\@parcel\core\lib\assetUtils.js133826402379872433 0
-145C:\projects\Portfolio\js_to_do_list_new\node_modules\.cache\gh-pages\https!github.com!NadiiaBulmak!js_to_do_list_new.git\.git\refs\heads\gh-pages133826405419257609 0
+145C:\projects\Portfolio\js_to_do_list_new\node_modules\.cache\gh-pages\https!github.com!NadiiaBulmak!js_to_do_list_new.git\.git\refs\heads\gh-pages133826414763277960 0
 83C:\projects\Portfolio\js_to_do_list_new\node_modules\@parcel\core\lib\buildCache.js133826402380021063 0
 84C:\projects\Portfolio\js_to_do_list_new\node_modules\@parcel\core\lib\BundleGraph.js133826402380510596 0
 89C:\projects\Portfolio\js_to_do_list_new\node_modules\@parcel\core\lib\loadParcelPlugin.js133826402382500298 0
@@ -5334,7 +5384,7 @@
 78C:\projects\Portfolio\js_to_do_list_new\node_modules\@parcel\core\lib\utils.js133826402384074785 0
 83C:\projects\Portfolio\js_to_do_list_new\node_modules\@parcel\core\lib\Validation.js133826402384153906 0
 79C:\projects\Portfolio\js_to_do_list_new\node_modules\@parcel\core\lib\worker.js133826402384205684 0
-136C:\projects\Portfolio\js_to_do_list_new\node_modules\.cache\gh-pages\https!github.com!NadiiaBulmak!js_to_do_list_new.git\.git\objects\99133826405418412761 1
+136C:\projects\Portfolio\js_to_do_list_new\node_modules\.cache\gh-pages\https!github.com!NadiiaBulmak!js_to_do_list_new.git\.git\objects\99133826414763252828 1
 100C:\projects\Portfolio\js_to_do_list_new\node_modules\@parcel\core\lib\requests\BundleGraphRequest.js133826402380984015 0
 95C:\projects\Portfolio\js_to_do_list_new\node_modules\@parcel\core\lib\requests\DevDepRequest.js133826402381745285 0
 96C:\projects\Portfolio\js_to_do_list_new\node_modules\@parcel\core\lib\requests\PackageRequest.js133826402382699999 0
@@ -5360,7 +5410,7 @@
 78C:\projects\Portfolio\js_to_do_list_new\node_modules\@parcel\codeframe\LICENSE133826402372820623 0
 87C:\projects\Portfolio\js_to_do_list_new\node_modules\@parcel\codeframe\lib\codeframe.js133826402379085858 0
 66C:\projects\Portfolio\js_to_do_list_new\node_modules\.bin\sass.cmd133826402611916201 0
-139C:\projects\Portfolio\js_to_do_list_new\node_modules\.cache\gh-pages\https!github.com!NadiiaBulmak!js_to_do_list_new.git\index.4b3c3f1a.css133826405417888024 0
+139C:\projects\Portfolio\js_to_do_list_new\node_modules\.cache\gh-pages\https!github.com!NadiiaBulmak!js_to_do_list_new.git\index.4b3c3f1a.css133826414762074451 0
 91C:\projects\Portfolio\js_to_do_list_new\node_modules\@parcel\codeframe\lib\codeframe.js.map133826402381210399 0
 70C:\projects\Portfolio\js_to_do_list_new\node_modules\@parcel\cache\lib133826402377845983 1
 70C:\projects\Portfolio\js_to_do_list_new\node_modules\@parcel\cache\src133826402377356629 1
@@ -5382,10 +5432,12 @@
 83C:\projects\Portfolio\js_to_do_list_new\node_modules\@nodelib\fs.walk\out\providers133826402378984619 1
 81C:\projects\Portfolio\js_to_do_list_new\node_modules\@nodelib\fs.walk\out\readers133826402379063248 1
 87C:\projects\Portfolio\js_to_do_list_new\node_modules\@nodelib\fs.walk\out\settings.d.ts133826402378839905 0
+142C:\projects\Portfolio\js_to_do_list_new\node_modules\.cache\gh-pages\https!github.com!NadiiaBulmak!js_to_do_list_new.git\index.f0f12eef.js.map133826414762074451 0
 85C:\projects\Portfolio\js_to_do_list_new\node_modules\@nodelib\fs.walk\out\settings.js133826402376941573 0
 79C:\projects\Portfolio\js_to_do_list_new\node_modules\@nodelib\fs.walk\out\types133826402378577561 1
 90C:\projects\Portfolio\js_to_do_list_new\node_modules\@nodelib\fs.walk\out\types\index.d.ts133826402378619004 0
 88C:\projects\Portfolio\js_to_do_list_new\node_modules\@nodelib\fs.walk\out\types\index.js133826402376466989 0
+136C:\projects\Portfolio\js_to_do_list_new\node_modules\.cache\gh-pages\https!github.com!NadiiaBulmak!js_to_do_list_new.git\.git\objects\36133826414762386975 1
 92C:\projects\Portfolio\js_to_do_list_new\node_modules\@nodelib\fs.walk\out\readers\async.d.ts133826402378130244 0
 90C:\projects\Portfolio\js_to_do_list_new\node_modules\@nodelib\fs.stat\out\adapters\fs.d.ts133826402377306240 0
 90C:\projects\Portfolio\js_to_do_list_new\node_modules\@nodelib\fs.walk\out\readers\async.js133826402374707762 0
@@ -5430,6 +5482,7 @@
 87C:\projects\Portfolio\js_to_do_list_new\node_modules\@mischnic\json-sourcemap\README.md133826402373400994 0
 136C:\projects\Portfolio\js_to_do_list_new\node_modules\.cache\gh-pages\https!github.com!NadiiaBulmak!js_to_do_list_new.git\.git\objects\57133826405418232116 1
 93C:\projects\Portfolio\js_to_do_list_new\node_modules\@mischnic\json-sourcemap\dist\index.d.ts133826402374657330 0
+136C:\projects\Portfolio\js_to_do_list_new\node_modules\.cache\gh-pages\https!github.com!NadiiaBulmak!js_to_do_list_new.git\.git\objects\5c133826414759006343 1
 91C:\projects\Portfolio\js_to_do_list_new\node_modules\@mischnic\json-sourcemap\dist\index.js133826402375237736 0
 96C:\projects\Portfolio\js_to_do_list_new\node_modules\@mischnic\json-sourcemap\dist\index.js.flow133826402375590632 0
 73C:\projects\Portfolio\js_to_do_list_new\node_modules\@lmdb\lmdb-win32-x64133826402378814696 1
@@ -5449,50 +5502,92 @@
 91C:\projects\Portfolio\js_to_do_list_new\node_modules\@babel\helper-validator-identifier\lib133826402376091626 1
 95C:\projects\Portfolio\js_to_do_list_new\node_modules\@babel\helper-validator-identifier\LICENSE133826402372756778 0
 97C:\projects\Portfolio\js_to_do_list_new\node_modules\@babel\helper-validator-identifier\README.md133826402373336866 0
-142C:\projects\Portfolio\js_to_do_list_new\node_modules\.cache\gh-pages\https!github.com!NadiiaBulmak!js_to_do_list_new.git\index.f75de5e1.js.map133826405417888024 0
+142C:\projects\Portfolio\js_to_do_list_new\node_modules\.cache\gh-pages\https!github.com!NadiiaBulmak!js_to_do_list_new.git\index.f75de5e1.js.map133826414762074451 0
 105C:\projects\Portfolio\js_to_do_list_new\node_modules\@babel\helper-validator-identifier\lib\identifier.js133826402374051645 0
 78C:\projects\Portfolio\js_to_do_list_new\node_modules\@babel\code-frame\LICENSE133826402372756778 0
 83C:\projects\Portfolio\js_to_do_list_new\node_modules\@babel\code-frame\package.json133826402375304620 0
 80C:\projects\Portfolio\js_to_do_list_new\node_modules\@babel\code-frame\README.md133826402373336866 0
 83C:\projects\Portfolio\js_to_do_list_new\node_modules\@babel\code-frame\lib\index.js133826402374051645 0
-125C:\projects\Portfolio\js_to_do_list_new\node_modules\.cache\gh-pages\https!github.com!NadiiaBulmak!js_to_do_list_new.git\.git133826405419277598 1
-138C:\projects\Portfolio\js_to_do_list_new\node_modules\.cache\gh-pages\https!github.com!NadiiaBulmak!js_to_do_list_new.git\icon.4ea31b98.png133826405417888024 0
-143C:\projects\Portfolio\js_to_do_list_new\node_modules\.cache\gh-pages\https!github.com!NadiiaBulmak!js_to_do_list_new.git\index.971c2ea4.css.map133826405417888024 0
-138C:\projects\Portfolio\js_to_do_list_new\node_modules\.cache\gh-pages\https!github.com!NadiiaBulmak!js_to_do_list_new.git\index.b83753d3.js133826405417888024 0
-142C:\projects\Portfolio\js_to_do_list_new\node_modules\.cache\gh-pages\https!github.com!NadiiaBulmak!js_to_do_list_new.git\index.b83753d3.js.map133826405417888024 0
-131C:\projects\Portfolio\js_to_do_list_new\node_modules\.cache\gh-pages\https!github.com!NadiiaBulmak!js_to_do_list_new.git\index.html133826405417888024 0
-154C:\projects\Portfolio\js_to_do_list_new\node_modules\.cache\gh-pages\https!github.com!NadiiaBulmak!js_to_do_list_new.git\js_to_do_list_new.59712999.js.map133826405417888024 0
+125C:\projects\Portfolio\js_to_do_list_new\node_modules\.cache\gh-pages\https!github.com!NadiiaBulmak!js_to_do_list_new.git\.git133826414763308066 1
+138C:\projects\Portfolio\js_to_do_list_new\node_modules\.cache\gh-pages\https!github.com!NadiiaBulmak!js_to_do_list_new.git\icon.4ea31b98.png133826414762074451 0
+143C:\projects\Portfolio\js_to_do_list_new\node_modules\.cache\gh-pages\https!github.com!NadiiaBulmak!js_to_do_list_new.git\index.971c2ea4.css.map133826414762074451 0
+138C:\projects\Portfolio\js_to_do_list_new\node_modules\.cache\gh-pages\https!github.com!NadiiaBulmak!js_to_do_list_new.git\index.b83753d3.js133826414762074451 0
+142C:\projects\Portfolio\js_to_do_list_new\node_modules\.cache\gh-pages\https!github.com!NadiiaBulmak!js_to_do_list_new.git\index.b83753d3.js.map133826414762074451 0
+131C:\projects\Portfolio\js_to_do_list_new\node_modules\.cache\gh-pages\https!github.com!NadiiaBulmak!js_to_do_list_new.git\index.html133826414762074451 0
+154C:\projects\Portfolio\js_to_do_list_new\node_modules\.cache\gh-pages\https!github.com!NadiiaBulmak!js_to_do_list_new.git\js_to_do_list_new.59712999.js.map133826414762074451 0
 151C:\projects\Portfolio\js_to_do_list_new\node_modules\.cache\gh-pages\https!github.com!NadiiaBulmak!js_to_do_list_new.git\.parcel-cache\caf70b9fe1648bd5133826405410290876 0
 143C:\projects\Portfolio\js_to_do_list_new\node_modules\.cache\gh-pages\https!github.com!NadiiaBulmak!js_to_do_list_new.git\.parcel-cache\lock.mdb133826405410311141 0
-132C:\projects\Portfolio\js_to_do_list_new\node_modules\.cache\gh-pages\https!github.com!NadiiaBulmak!js_to_do_list_new.git\.git\config133826405418794025 0
+132C:\projects\Portfolio\js_to_do_list_new\node_modules\.cache\gh-pages\https!github.com!NadiiaBulmak!js_to_do_list_new.git\.git\config133826414762810959 0
 131C:\projects\Portfolio\js_to_do_list_new\node_modules\.cache\gh-pages\https!github.com!NadiiaBulmak!js_to_do_list_new.git\.git\hooks133826405402579795 1
-131C:\projects\Portfolio\js_to_do_list_new\node_modules\.cache\gh-pages\https!github.com!NadiiaBulmak!js_to_do_list_new.git\.git\index133826405419204876 0
-133C:\projects\Portfolio\js_to_do_list_new\node_modules\.cache\gh-pages\https!github.com!NadiiaBulmak!js_to_do_list_new.git\.git\objects133826405419440372 1
-136C:\projects\Portfolio\js_to_do_list_new\node_modules\.cache\gh-pages\https!github.com!NadiiaBulmak!js_to_do_list_new.git\.git\refs\heads133826405419267597 1
+131C:\projects\Portfolio\js_to_do_list_new\node_modules\.cache\gh-pages\https!github.com!NadiiaBulmak!js_to_do_list_new.git\.git\index133826414763192543 0
+133C:\projects\Portfolio\js_to_do_list_new\node_modules\.cache\gh-pages\https!github.com!NadiiaBulmak!js_to_do_list_new.git\.git\objects133826414763453411 1
+135C:\projects\Portfolio\js_to_do_list_new\node_modules\.cache\gh-pages\https!github.com!NadiiaBulmak!js_to_do_list_new.git\.git\ORIG_HEAD133826414761661982 0
+136C:\projects\Portfolio\js_to_do_list_new\node_modules\.cache\gh-pages\https!github.com!NadiiaBulmak!js_to_do_list_new.git\.git\refs\heads133826414763277960 1
 138C:\projects\Portfolio\js_to_do_list_new\node_modules\.cache\gh-pages\https!github.com!NadiiaBulmak!js_to_do_list_new.git\.git\refs\remotes133826405410185651 1
+153C:\projects\Portfolio\js_to_do_list_new\node_modules\.cache\gh-pages\https!github.com!NadiiaBulmak!js_to_do_list_new.git\.git\refs\remotes\origin\develop133826414759942264 0
+136C:\projects\Portfolio\js_to_do_list_new\node_modules\.cache\gh-pages\https!github.com!NadiiaBulmak!js_to_do_list_new.git\.git\objects\e8133826414759574917 1
 150C:\projects\Portfolio\js_to_do_list_new\node_modules\.cache\gh-pages\https!github.com!NadiiaBulmak!js_to_do_list_new.git\.git\refs\remotes\origin\HEAD133826405410195652 0
 136C:\projects\Portfolio\js_to_do_list_new\node_modules\.cache\gh-pages\https!github.com!NadiiaBulmak!js_to_do_list_new.git\.git\objects\15133826405418252110 1
-136C:\projects\Portfolio\js_to_do_list_new\node_modules\.cache\gh-pages\https!github.com!NadiiaBulmak!js_to_do_list_new.git\.git\objects\18133826405418382570 1
+136C:\projects\Portfolio\js_to_do_list_new\node_modules\.cache\gh-pages\https!github.com!NadiiaBulmak!js_to_do_list_new.git\.git\objects\18133826411041770264 1
+136C:\projects\Portfolio\js_to_do_list_new\node_modules\.cache\gh-pages\https!github.com!NadiiaBulmak!js_to_do_list_new.git\.git\objects\2f133826414763192543 1
+136C:\projects\Portfolio\js_to_do_list_new\node_modules\.cache\gh-pages\https!github.com!NadiiaBulmak!js_to_do_list_new.git\.git\objects\3e133826414759068424 1
 136C:\projects\Portfolio\js_to_do_list_new\node_modules\.cache\gh-pages\https!github.com!NadiiaBulmak!js_to_do_list_new.git\.git\objects\3f133826405418156937 1
+136C:\projects\Portfolio\js_to_do_list_new\node_modules\.cache\gh-pages\https!github.com!NadiiaBulmak!js_to_do_list_new.git\.git\objects\4e133826411038435688 1
+136C:\projects\Portfolio\js_to_do_list_new\node_modules\.cache\gh-pages\https!github.com!NadiiaBulmak!js_to_do_list_new.git\.git\objects\50133826414759203970 1
 136C:\projects\Portfolio\js_to_do_list_new\node_modules\.cache\gh-pages\https!github.com!NadiiaBulmak!js_to_do_list_new.git\.git\objects\55133826405418321400 1
+136C:\projects\Portfolio\js_to_do_list_new\node_modules\.cache\gh-pages\https!github.com!NadiiaBulmak!js_to_do_list_new.git\.git\objects\61133826414759178732 1
+136C:\projects\Portfolio\js_to_do_list_new\node_modules\.cache\gh-pages\https!github.com!NadiiaBulmak!js_to_do_list_new.git\.git\objects\62133826411041036853 1
 136C:\projects\Portfolio\js_to_do_list_new\node_modules\.cache\gh-pages\https!github.com!NadiiaBulmak!js_to_do_list_new.git\.git\objects\69133826405418176934 1
+136C:\projects\Portfolio\js_to_do_list_new\node_modules\.cache\gh-pages\https!github.com!NadiiaBulmak!js_to_do_list_new.git\.git\objects\6b133826414762432327 1
+136C:\projects\Portfolio\js_to_do_list_new\node_modules\.cache\gh-pages\https!github.com!NadiiaBulmak!js_to_do_list_new.git\.git\objects\75133826414759507089 1
+136C:\projects\Portfolio\js_to_do_list_new\node_modules\.cache\gh-pages\https!github.com!NadiiaBulmak!js_to_do_list_new.git\.git\objects\88133826411033848723 1
+136C:\projects\Portfolio\js_to_do_list_new\node_modules\.cache\gh-pages\https!github.com!NadiiaBulmak!js_to_do_list_new.git\.git\objects\8d133826414762452836 1
 136C:\projects\Portfolio\js_to_do_list_new\node_modules\.cache\gh-pages\https!github.com!NadiiaBulmak!js_to_do_list_new.git\.git\objects\9d133826405418342539 1
 136C:\projects\Portfolio\js_to_do_list_new\node_modules\.cache\gh-pages\https!github.com!NadiiaBulmak!js_to_do_list_new.git\.git\objects\9e133826405418282111 1
+136C:\projects\Portfolio\js_to_do_list_new\node_modules\.cache\gh-pages\https!github.com!NadiiaBulmak!js_to_do_list_new.git\.git\objects\a2133826411034731003 1
 136C:\projects\Portfolio\js_to_do_list_new\node_modules\.cache\gh-pages\https!github.com!NadiiaBulmak!js_to_do_list_new.git\.git\objects\b1133826405419247539 1
+136C:\projects\Portfolio\js_to_do_list_new\node_modules\.cache\gh-pages\https!github.com!NadiiaBulmak!js_to_do_list_new.git\.git\objects\b9133826411041811763 1
+136C:\projects\Portfolio\js_to_do_list_new\node_modules\.cache\gh-pages\https!github.com!NadiiaBulmak!js_to_do_list_new.git\.git\objects\bb133826411032261378 1
+136C:\projects\Portfolio\js_to_do_list_new\node_modules\.cache\gh-pages\https!github.com!NadiiaBulmak!js_to_do_list_new.git\.git\objects\d8133826411038269849 1
+136C:\projects\Portfolio\js_to_do_list_new\node_modules\.cache\gh-pages\https!github.com!NadiiaBulmak!js_to_do_list_new.git\.git\objects\ec133826411041003608 1
+136C:\projects\Portfolio\js_to_do_list_new\node_modules\.cache\gh-pages\https!github.com!NadiiaBulmak!js_to_do_list_new.git\.git\objects\ed133826414759595275 1
+136C:\projects\Portfolio\js_to_do_list_new\node_modules\.cache\gh-pages\https!github.com!NadiiaBulmak!js_to_do_list_new.git\.git\objects\f1133826411034695795 1
+136C:\projects\Portfolio\js_to_do_list_new\node_modules\.cache\gh-pages\https!github.com!NadiiaBulmak!js_to_do_list_new.git\.git\objects\f4133826411032240432 1
 138C:\projects\Portfolio\js_to_do_list_new\node_modules\.cache\gh-pages\https!github.com!NadiiaBulmak!js_to_do_list_new.git\.git\objects\pack133826405410270874 1
 188C:\projects\Portfolio\js_to_do_list_new\node_modules\.cache\gh-pages\https!github.com!NadiiaBulmak!js_to_do_list_new.git\.git\objects\pack\pack-eb1866eae9a95bae8c8e1ad5b2c5331b9121e1c0.rev133826405409827116 0
-175C:\projects\Portfolio\js_to_do_list_new\node_modules\.cache\gh-pages\https!github.com!NadiiaBulmak!js_to_do_list_new.git\.git\objects\f3\afbe9643c5a3e46107631bcba13bcdb7b3547a133826405418186933 0
+175C:\projects\Portfolio\js_to_do_list_new\node_modules\.cache\gh-pages\https!github.com!NadiiaBulmak!js_to_do_list_new.git\.git\objects\f3\afbe9643c5a3e46107631bcba13bcdb7b3547a133826414762296408 0
+175C:\projects\Portfolio\js_to_do_list_new\node_modules\.cache\gh-pages\https!github.com!NadiiaBulmak!js_to_do_list_new.git\.git\objects\e8\2d69dda215932bf34024aa4ee77e2e1c6ef612133826414759552183 0
 175C:\projects\Portfolio\js_to_do_list_new\node_modules\.cache\gh-pages\https!github.com!NadiiaBulmak!js_to_do_list_new.git\.git\objects\e1\6f9d0b2c6ba0f56cfed9feaa513c77e1d93eac133826405418352582 0
+175C:\projects\Portfolio\js_to_do_list_new\node_modules\.cache\gh-pages\https!github.com!NadiiaBulmak!js_to_do_list_new.git\.git\objects\d8\d48632f2ec52fef3245cbbafa3f596b2a0fd93133826411038235476 0
+175C:\projects\Portfolio\js_to_do_list_new\node_modules\.cache\gh-pages\https!github.com!NadiiaBulmak!js_to_do_list_new.git\.git\objects\d7\a6e33c7c9d4f4368e059f5f03107b92ab0b811133826414759605002 0
+175C:\projects\Portfolio\js_to_do_list_new\node_modules\.cache\gh-pages\https!github.com!NadiiaBulmak!js_to_do_list_new.git\.git\objects\bb\5d668fca0cfa8ca9bfcf9f4e35b0514adcadd4133826411032240432 0
+175C:\projects\Portfolio\js_to_do_list_new\node_modules\.cache\gh-pages\https!github.com!NadiiaBulmak!js_to_do_list_new.git\.git\objects\b9\d1b0f0afef1b36d2e1f69a8df047985425248f133826411041791052 0
 175C:\projects\Portfolio\js_to_do_list_new\node_modules\.cache\gh-pages\https!github.com!NadiiaBulmak!js_to_do_list_new.git\.git\objects\b1\d4206888bf3b1ecbdde263c81855bdffd02fc6133826405419230057 0
-175C:\projects\Portfolio\js_to_do_list_new\node_modules\.cache\gh-pages\https!github.com!NadiiaBulmak!js_to_do_list_new.git\.git\objects\9e\fafa9a56a6740ad67e446084ec7eef28fb67b3133826405418262121 0
-175C:\projects\Portfolio\js_to_do_list_new\node_modules\.cache\gh-pages\https!github.com!NadiiaBulmak!js_to_do_list_new.git\.git\objects\69\1a33465d70d0d632e876bec6414caac7d5e661133826405418166931 0
+175C:\projects\Portfolio\js_to_do_list_new\node_modules\.cache\gh-pages\https!github.com!NadiiaBulmak!js_to_do_list_new.git\.git\objects\a2\651e6db28f5ec6a110ddf0305b6754f2ae9dd3133826411034710859 0
+175C:\projects\Portfolio\js_to_do_list_new\node_modules\.cache\gh-pages\https!github.com!NadiiaBulmak!js_to_do_list_new.git\.git\objects\9e\fafa9a56a6740ad67e446084ec7eef28fb67b3133826414762320627 0
+175C:\projects\Portfolio\js_to_do_list_new\node_modules\.cache\gh-pages\https!github.com!NadiiaBulmak!js_to_do_list_new.git\.git\objects\69\1a33465d70d0d632e876bec6414caac7d5e661133826414762296408 0
 175C:\projects\Portfolio\js_to_do_list_new\node_modules\.cache\gh-pages\https!github.com!NadiiaBulmak!js_to_do_list_new.git\.git\objects\9d\4be93230f1a492eb9fc4c2653afda9518cbb72133826405418332550 0
-175C:\projects\Portfolio\js_to_do_list_new\node_modules\.cache\gh-pages\https!github.com!NadiiaBulmak!js_to_do_list_new.git\.git\objects\99\119a5487b4ac8d2db53403f162aa7a83d0424c133826405418392551 0
+175C:\projects\Portfolio\js_to_do_list_new\node_modules\.cache\gh-pages\https!github.com!NadiiaBulmak!js_to_do_list_new.git\.git\objects\99\119a5487b4ac8d2db53403f162aa7a83d0424c133826414762462296 0
+175C:\projects\Portfolio\js_to_do_list_new\node_modules\.cache\gh-pages\https!github.com!NadiiaBulmak!js_to_do_list_new.git\.git\objects\8d\dcb336f21aa68acb8f8711986f4efff0df8c0c133826414762442735 0
+175C:\projects\Portfolio\js_to_do_list_new\node_modules\.cache\gh-pages\https!github.com!NadiiaBulmak!js_to_do_list_new.git\.git\objects\8a\2d3b5a813672f08130bc7f205c868c78a21fd5133826411034635802 0
+175C:\projects\Portfolio\js_to_do_list_new\node_modules\.cache\gh-pages\https!github.com!NadiiaBulmak!js_to_do_list_new.git\.git\objects\88\7ea97f25541e5229b10320a2a1f228fa6a35f3133826411033837169 0
+175C:\projects\Portfolio\js_to_do_list_new\node_modules\.cache\gh-pages\https!github.com!NadiiaBulmak!js_to_do_list_new.git\.git\objects\6b\905e3e575bdb98df1cc36ba79de974574ba2bd133826414762422376 0
+175C:\projects\Portfolio\js_to_do_list_new\node_modules\.cache\gh-pages\https!github.com!NadiiaBulmak!js_to_do_list_new.git\.git\objects\62\1b4a348f9528e3dadd26556a5e27a4c62d0c25133826411041008672 0
+175C:\projects\Portfolio\js_to_do_list_new\node_modules\.cache\gh-pages\https!github.com!NadiiaBulmak!js_to_do_list_new.git\.git\objects\5c\d6ed409d0762c28667df704964bb98051a629d133826414758979646 0
 175C:\projects\Portfolio\js_to_do_list_new\node_modules\.cache\gh-pages\https!github.com!NadiiaBulmak!js_to_do_list_new.git\.git\objects\55\27e860169d25c20b478aa698574c0b6a1c29f3133826405418312474 0
+175C:\projects\Portfolio\js_to_do_list_new\node_modules\.cache\gh-pages\https!github.com!NadiiaBulmak!js_to_do_list_new.git\.git\objects\50\98818b4069a4a8082ba76ec0b62c48a592d414133826414759178732 0
+175C:\projects\Portfolio\js_to_do_list_new\node_modules\.cache\gh-pages\https!github.com!NadiiaBulmak!js_to_do_list_new.git\.git\objects\50\d654c2119a1fc340ae20e258d716699d96c096133826411038380066 0
+175C:\projects\Portfolio\js_to_do_list_new\node_modules\.cache\gh-pages\https!github.com!NadiiaBulmak!js_to_do_list_new.git\.git\objects\4e\182b98cdd1a8f7955eed10759d70d79bc3aeeb133826411038425767 0
 175C:\projects\Portfolio\js_to_do_list_new\node_modules\.cache\gh-pages\https!github.com!NadiiaBulmak!js_to_do_list_new.git\.git\objects\4b\82709fedd4b2ae1bf9a268c33a2a8e9f24c640133826405419186286 0
-175C:\projects\Portfolio\js_to_do_list_new\node_modules\.cache\gh-pages\https!github.com!NadiiaBulmak!js_to_do_list_new.git\.git\objects\15\5ba1a1df3397f455405a23d2cc73817a62e2ad133826405418242101 0
+175C:\projects\Portfolio\js_to_do_list_new\node_modules\.cache\gh-pages\https!github.com!NadiiaBulmak!js_to_do_list_new.git\.git\objects\3e\1ae829a1278d31c7a9faff331bb96616306f37133826414759048438 0
+175C:\projects\Portfolio\js_to_do_list_new\node_modules\.cache\gh-pages\https!github.com!NadiiaBulmak!js_to_do_list_new.git\.git\objects\3c\07d4ce3220cc5c45ebaecb82dc4aa85bd70d6f133826411038340023 0
+175C:\projects\Portfolio\js_to_do_list_new\node_modules\.cache\gh-pages\https!github.com!NadiiaBulmak!js_to_do_list_new.git\.git\objects\26\7eb84db58ff042cc5206053e62c4c33582624f133826414759635582 0
+175C:\projects\Portfolio\js_to_do_list_new\node_modules\.cache\gh-pages\https!github.com!NadiiaBulmak!js_to_do_list_new.git\.git\objects\23\4ccd577bbc39bbf76d15b1b1331b0ac533784f133826414759320158 0
+175C:\projects\Portfolio\js_to_do_list_new\node_modules\.cache\gh-pages\https!github.com!NadiiaBulmak!js_to_do_list_new.git\.git\objects\20\d497d9af73e9e4dc0a478cb327414035d50a0e133826411035963661 0
+175C:\projects\Portfolio\js_to_do_list_new\node_modules\.cache\gh-pages\https!github.com!NadiiaBulmak!js_to_do_list_new.git\.git\objects\18\d0532ee2bf9ae459b519c971d367bcf793eeaf133826411041752719 0
+175C:\projects\Portfolio\js_to_do_list_new\node_modules\.cache\gh-pages\https!github.com!NadiiaBulmak!js_to_do_list_new.git\.git\objects\15\5ba1a1df3397f455405a23d2cc73817a62e2ad133826414762316844 0
 135C:\projects\Portfolio\js_to_do_list_new\node_modules\.cache\gh-pages\https!github.com!NadiiaBulmak!js_to_do_list_new.git\.git\logs\refs133826405410240881 1
-150C:\projects\Portfolio\js_to_do_list_new\node_modules\.cache\gh-pages\https!github.com!NadiiaBulmak!js_to_do_list_new.git\.git\logs\refs\remotes\origin133826405410205709 1
+150C:\projects\Portfolio\js_to_do_list_new\node_modules\.cache\gh-pages\https!github.com!NadiiaBulmak!js_to_do_list_new.git\.git\logs\refs\remotes\origin133826414759952289 1
 153C:\projects\Portfolio\js_to_do_list_new\node_modules\.cache\gh-pages\https!github.com!NadiiaBulmak!js_to_do_list_new.git\.git\hooks\applypatch-msg.sample133826405402529731 0
 149C:\projects\Portfolio\js_to_do_list_new\node_modules\.cache\gh-pages\https!github.com!NadiiaBulmak!js_to_do_list_new.git\.git\hooks\commit-msg.sample133826405402529731 0
 157C:\projects\Portfolio\js_to_do_list_new\node_modules\.cache\gh-pages\https!github.com!NadiiaBulmak!js_to_do_list_new.git\.git\hooks\fsmonitor-watchman.sample133826405402539788 0
@@ -5532,8 +5627,9 @@
 65C:\projects\Portfolio\js_to_do_list_new\dist\checked.e408967a.png133826410563237123 0
 62C:\projects\Portfolio\js_to_do_list_new\dist\icon.4ea31b98.png133826405336184442 0
 63C:\projects\Portfolio\js_to_do_list_new\dist\index.4b3c3f1a.css133826405349047863 0
-62C:\projects\Portfolio\js_to_do_list_new\dist\index.f75de5e1.js133826410563277099 0
-66C:\projects\Portfolio\js_to_do_list_new\dist\index.f75de5e1.js.map133826410563403799 0
+66C:\projects\Portfolio\js_to_do_list_new\dist\index.f0f12eef.js.map133826414747838968 0
+62C:\projects\Portfolio\js_to_do_list_new\dist\index.f75de5e1.js133826413157004951 0
+66C:\projects\Portfolio\js_to_do_list_new\dist\index.f75de5e1.js.map133826413157023364 0
 74C:\projects\Portfolio\js_to_do_list_new\dist\js_to_do_list_new.59712999.js133826410563277099 0
 78C:\projects\Portfolio\js_to_do_list_new\dist\js_to_do_list_new.59712999.js.map133826410563403799 0
 85C:\projects\Portfolio\js_to_do_list_new\dist\js_to_do_list_new.59712999.js.map.4300.q133826409525262364 0
