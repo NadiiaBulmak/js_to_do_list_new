@@ -11,6 +11,7 @@ function createListItem(text) {
   li.classList.add('todo-app__item');
   li.textContent = text;
 
+  
   const span = document.createElement('span');
   span.innerHTML = '×'; // Unicode cross symbol
   span.classList.add('todo-app__item-remove');
