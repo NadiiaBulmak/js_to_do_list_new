@@ -40,6 +40,7 @@ function addTask() {
 // Сохранение данных в localStorage
 function saveData() {
     try {
+        // Мы сохраняем только внутреннее содержимое списка
         localStorage.setItem('data', listContainer.innerHTML);
     } catch (e) {
         window.alert("\u041E\u0448\u0438\u0431\u043A\u0430 \u0441\u043E\u0445\u0440\u0430\u043D\u0435\u043D\u0438\u044F \u0432 localStorage:", e);
