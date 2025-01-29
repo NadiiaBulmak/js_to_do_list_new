@@ -1,92 +1,86 @@
 'use strict';
 
-/* global localStorage */
-
-// Получаем элементы из DOM
+// Get references to necessary elements
 const inputBox = document.getElementById('input-box');
 const listContainer = document.getElementById('list-container');
 const addButton = document.getElementById('add-task-btn');
 
-// Загружаем сохранённые данные при загрузке страницы
-document.addEventListener('DOMContentLoaded', function() {
-  loadData();
+// Function to create a new list item element
+function createListItem(text) {
+  const li = document.createElement('li');
+  li.classList.add('todo-app__item');
+  li.textContent = text;
 
-  // Добавляем обработчик событий для кнопки "Добавить задачу"
-  addButton.addEventListener('click', addTask);
-});
+  const span = document.createElement('span');
+  span.innerHTML = '×'; // Unicode cross symbol
+  span.classList.add('todo-app__item-remove');
+  li.appendChild(span);
 
-// Функция для добавления задачи
-function addTask() {
-  if (inputBox.value === '') {
-    // Если поле ввода пустое, выводим сообщение
-    window.alert('You have to write something!');
-  } else {
-    const li = document.createElement('li');
-
-    li.classList.add('todo-app__item');
-    li.textContent = inputBox.value;
-    listContainer.appendChild(li);
-
-    const span = document.createElement('span');
-
-    span.innerHTML = '\u00d7'; // Символ крестика
-    span.classList.add('todo-app__item-remove');
-    li.appendChild(span);
-
-    // Очистка поля ввода после добавления
-    inputBox.value = '';
+  // Add event listeners
+  span.addEventListener('click', () => {
+    listContainer.removeChild(li);
     saveData();
+  });
+  li.addEventListener('click', () => {
+    li.classList.toggle('todo-app__item--checked');
+    saveData();
+  });
 
-    // Удаление задачи по клику на крестик
-    span.onclick = function() {
-      listContainer.removeChild(li);
-      saveData();
-    };
-
-    // Отметка задачи как выполненной при клике
-    li.onclick = function() {
-      li.classList.toggle('todo-app__item--checked');
-      saveData();
-    };
-  }
+  return li;
 }
 
-// Сохранение данных в localStorage
+// Function to add a task to the list
+function addTask() {
+  const inputValue = inputBox.value.trim();
+
+  if (inputValue === '') {
+    alert('You have to write something!');
+    return; // Exit the function early
+  }
+
+  const newListItem = createListItem(inputValue);
+  listContainer.appendChild(newListItem);
+  inputBox.value = ''; // Clear the input field
+  saveData();
+}
+
+// Function to save the current list state to localStorage
 function saveData() {
   try {
-    // Мы сохраняем только внутреннее содержимое списка
     localStorage.setItem('data', listContainer.innerHTML);
-  } catch (e) {
-    window.alert('Ошибка сохранения в localStorage:', e);
+  } catch (error) {
+    alert('Error saving to localStorage:', error);
   }
 }
 
-// Загрузка данных из localStorage
+// Function to load saved data from localStorage
 function loadData() {
   try {
     const savedData = localStorage.getItem('data');
-
     if (savedData) {
       listContainer.innerHTML = savedData;
 
-      // Восстанавливаем функциональность для каждой задачи
-      const items = listContainer.getElementsByClassName('todo-app__item');
-
-      for (const item of items) {
-        const span = item.querySelector('.todo-app__item-remove');
-
-        span.onclick = function() {
+      // Re-attach event listeners to loaded items
+      const items = document.querySelectorAll('.todo-app__item');
+      items.forEach(item => {
+        const removeButton = item.querySelector('.todo-app__item-remove');
+        removeButton.addEventListener('click', () => {
           listContainer.removeChild(item);
           saveData();
-        };
-
-        item.onclick = function() {
+        });
+        item.addEventListener('click', () => {
           item.classList.toggle('todo-app__item--checked');
           saveData();
-        };
-      }
+        });
+      });
     }
-  } catch (e) {
-    window.alert('Ошибка загрузки из localStorage:', e);
+  } catch (error) {
+    alert('Error loading from localStorage:', error);
   }
 }
+
+// Event listeners
+addButton.addEventListener('click', addTask);
+window.addEventListener('DOMContentLoaded', () => {
+  loadData();
+});
