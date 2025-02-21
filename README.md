@@ -1,8 +1,14 @@
 # To-Do List Web Application
 
-A modern and responsive to-do list web app that helps you organize tasks effectively. Built with pure HTML, CSS, and JavaScript.
+## 📌 About the Project
+This project is a simple and user-friendly web application for managing a to-do list. It allows users to add, mark as completed, and delete tasks.
 
-## 🌟 Key Features
+## 🛠️ Technologies
+- HTML
+- CSS (responsive design)
+- JavaScript (DOM manipulation, localStorage)
+
+## 📜 Features
 - **✅ Add/Remove Tasks**: Add new tasks and remove completed ones.
 - **📝 Local Storage**: Your tasks survive page refreshes.
 - **🎨 Modern UI**: Clean and intuitive design.
@@ -10,10 +16,6 @@ A modern and responsive to-do list web app that helps you organize tasks effecti
 - **✅ Task Completion**: Mark tasks with check/uncheck status.
 - **📱 Responsive Design**: Works on all screen sizes.
 
-## 🛠️ Technologies Used
-- HTML
-- CSS
-- JavaScript
 
 ## 🚀 Demo
-Check out the live version of the project [DEMO_LINK](https://nadiiabulmak.github.io/js_to_do_list_new/)  
+🔗 [Live Project](https://nadiiabulmak.github.io/js_to_do_list_new/)
